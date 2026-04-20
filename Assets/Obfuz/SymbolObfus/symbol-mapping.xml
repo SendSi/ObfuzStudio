@@ -1,0 +1,1018 @@
+<mapping>
+  <assembly name="Assembly-CSharp">
+    <type fullName="$Obfuz$ConstFieldHolder$0" newFullName="$U" status="Renamed">
+      <field signature="int $Obfuz$RVA_Value0" newName="$Rc" />
+      <field signature="int $Obfuz$RVA_Value1" newName="$sc" />
+      <field signature="int $Obfuz$RVA_Value2" newName="$Sc" />
+      <field signature="int $Obfuz$RVA_Value3" newName="$tc" />
+      <field signature="int $Obfuz$RVA_Value4" newName="$Tc" />
+      <field signature="int $Obfuz$RVA_Value5" newName="$uc" />
+      <field signature="int $Obfuz$RVA_Value6" newName="$Uc" />
+      <field signature="int $Obfuz$RVA_Value7" newName="$vc" />
+      <field signature="int $Obfuz$RVA_Value8" newName="$Vc" />
+      <field signature="int $Obfuz$RVA_Value9" newName="$wc" />
+      <field signature="int $Obfuz$RVA_Value10" newName="$Wc" />
+      <field signature="int $Obfuz$RVA_Value11" newName="$xc" />
+      <field signature="int $Obfuz$RVA_Value12" newName="$Xc" />
+      <field signature="int $Obfuz$RVA_Value13" newName="$yc" />
+      <field signature="int $Obfuz$RVA_Value14" newName="$Yc" />
+      <field signature="int $Obfuz$RVA_Value15" newName="$zc" />
+      <field signature="string $Obfuz$RVA_Value16" newName="$Zc" />
+      <field signature="int $Obfuz$RVA_Value17" newName="$aC" />
+      <field signature="string $Obfuz$RVA_Value18" newName="$AC" />
+      <field signature="int $Obfuz$RVA_Value19" newName="$bC" />
+      <field signature="string $Obfuz$RVA_Value20" newName="$BC" />
+      <field signature="string $Obfuz$RVA_Value21" newName="$cC" />
+      <field signature="int $Obfuz$RVA_Value22" newName="$CC" />
+      <field signature="int $Obfuz$RVA_Value23" newName="$dC" />
+      <field signature="int $Obfuz$RVA_Value24" newName="$DC" />
+      <field signature="int $Obfuz$RVA_Value25" newName="$eC" />
+      <field signature="int $Obfuz$RVA_Value26" newName="$EC" />
+      <field signature="int $Obfuz$RVA_Value27" newName="$fC" />
+      <field signature="int $Obfuz$RVA_Value28" newName="$FC" />
+      <field signature="int $Obfuz$RVA_Value29" newName="$gC" />
+      <field signature="int $Obfuz$RVA_Value30" newName="$GC" />
+      <field signature="int $Obfuz$RVA_Value31" newName="$hC" />
+      <field signature="float $Obfuz$RVA_Value32" newName="$HC" />
+      <field signature="float $Obfuz$RVA_Value33" newName="$iC" />
+      <field signature="float $Obfuz$RVA_Value34" newName="$IC" />
+      <field signature="float $Obfuz$RVA_Value35" newName="$jC" />
+      <field signature="float $Obfuz$RVA_Value36" newName="$JC" />
+      <field signature="int $Obfuz$RVA_Value37" newName="$kC" />
+      <field signature="float $Obfuz$RVA_Value38" newName="$KC" />
+      <field signature="int $Obfuz$RVA_Value39" newName="$lC" />
+      <field signature="string $Obfuz$RVA_Value40" newName="$LC" />
+      <field signature="string $Obfuz$RVA_Value41" newName="$mC" />
+      <field signature="int $Obfuz$RVA_Value42" newName="$MC" />
+      <field signature="float $Obfuz$RVA_Value43" newName="$nC" />
+      <field signature="float $Obfuz$RVA_Value44" newName="$NC" />
+      <field signature="int $Obfuz$RVA_Value45" newName="$oC" />
+      <field signature="int $Obfuz$RVA_Value46" newName="$OC" />
+      <field signature="int $Obfuz$RVA_Value47" newName="$pC" />
+      <field signature="int $Obfuz$RVA_Value48" newName="$PC" />
+      <field signature="int $Obfuz$RVA_Value49" newName="$qC" />
+      <field signature="int $Obfuz$RVA_Value50" newName="$QC" />
+      <field signature="float $Obfuz$RVA_Value51" newName="$rC" />
+      <field signature="float $Obfuz$RVA_Value52" newName="$RC" />
+      <field signature="string $Obfuz$RVA_Value53" newName="$sC" />
+      <field signature="float $Obfuz$RVA_Value54" newName="$SC" />
+      <field signature="int $Obfuz$RVA_Value55" newName="$tC" />
+      <field signature="int $Obfuz$RVA_Value56" newName="$TC" />
+      <field signature="string $Obfuz$RVA_Value57" newName="$uC" />
+      <field signature="string $Obfuz$RVA_Value58" newName="$UC" />
+      <field signature="float $Obfuz$RVA_Value59" newName="$vC" />
+      <field signature="float $Obfuz$RVA_Value60" newName="$VC" />
+      <field signature="string $Obfuz$RVA_Value61" newName="$wC" />
+      <field signature="int $Obfuz$RVA_Value62" newName="$WC" />
+      <field signature="int $Obfuz$RVA_Value63" newName="$xC" />
+      <field signature="int $Obfuz$RVA_Value64" newName="$XC" />
+      <field signature="int $Obfuz$RVA_Value65" newName="$yC" />
+      <field signature="int $Obfuz$RVA_Value66" newName="$YC" />
+      <field signature="int $Obfuz$RVA_Value67" newName="$zC" />
+      <field signature="int $Obfuz$RVA_Value68" newName="$ZC" />
+      <field signature="int $Obfuz$RVA_Value69" newName="$ad" />
+      <field signature="float $Obfuz$RVA_Value70" newName="$Ad" />
+      <field signature="float $Obfuz$RVA_Value71" newName="$bd" />
+      <field signature="float $Obfuz$RVA_Value72" newName="$Bd" />
+      <field signature="float $Obfuz$RVA_Value73" newName="$cd" />
+      <field signature="float $Obfuz$RVA_Value74" newName="$Cd" />
+      <field signature="int $Obfuz$RVA_Value75" newName="$dd" />
+      <field signature="int $Obfuz$RVA_Value76" newName="$Dd" />
+      <field signature="int $Obfuz$RVA_Value77" newName="$ed" />
+      <field signature="int $Obfuz$RVA_Value78" newName="$Ed" />
+      <field signature="int $Obfuz$RVA_Value79" newName="$fd" />
+      <field signature="int $Obfuz$RVA_Value80" newName="$Fd" />
+      <field signature="int $Obfuz$RVA_Value81" newName="$gd" />
+      <field signature="int $Obfuz$RVA_Value82" newName="$Gd" />
+      <field signature="int $Obfuz$RVA_Value83" newName="$hd" />
+      <field signature="int $Obfuz$RVA_Value84" newName="$Hd" />
+      <field signature="int $Obfuz$RVA_Value85" newName="$id" />
+      <field signature="int $Obfuz$RVA_Value86" newName="$Id" />
+      <field signature="float $Obfuz$RVA_Value87" newName="$jd" />
+      <field signature="float $Obfuz$RVA_Value88" newName="$Jd" />
+      <field signature="int $Obfuz$RVA_Value89" newName="$kd" />
+      <field signature="int $Obfuz$RVA_Value90" newName="$Kd" />
+      <field signature="float $Obfuz$RVA_Value91" newName="$ld" />
+      <field signature="float $Obfuz$RVA_Value92" newName="$Ld" />
+      <field signature="float $Obfuz$RVA_Value93" newName="$md" />
+      <field signature="float $Obfuz$RVA_Value94" newName="$Md" />
+      <field signature="float $Obfuz$RVA_Value95" newName="$nd" />
+      <field signature="float $Obfuz$RVA_Value96" newName="$Nd" />
+      <field signature="float $Obfuz$RVA_Value97" newName="$od" />
+      <field signature="float $Obfuz$RVA_Value98" newName="$Od" />
+      <field signature="float $Obfuz$RVA_Value99" newName="$pd" />
+      <field signature="float $Obfuz$RVA_Value100" newName="$Pd" />
+      <field signature="float $Obfuz$RVA_Value101" newName="$qd" />
+      <field signature="int $Obfuz$RVA_Value102" newName="$Qd" />
+      <field signature="int $Obfuz$RVA_Value103" newName="$rd" />
+      <field signature="int $Obfuz$RVA_Value104" newName="$Rd" />
+      <field signature="int $Obfuz$RVA_Value105" newName="$sd" />
+      <field signature="int $Obfuz$RVA_Value106" newName="$Sd" />
+      <field signature="int $Obfuz$RVA_Value107" newName="$td" />
+      <field signature="int $Obfuz$RVA_Value108" newName="$Td" />
+      <field signature="int $Obfuz$RVA_Value109" newName="$ud" />
+      <field signature="int $Obfuz$RVA_Value110" newName="$Ud" />
+      <field signature="int $Obfuz$RVA_Value111" newName="$vd" />
+      <field signature="int $Obfuz$RVA_Value112" newName="$Vd" />
+      <field signature="int $Obfuz$RVA_Value113" newName="$wd" />
+      <field signature="int $Obfuz$RVA_Value114" newName="$Wd" />
+      <field signature="int $Obfuz$RVA_Value115" newName="$xd" />
+      <field signature="int $Obfuz$RVA_Value116" newName="$Xd" />
+      <field signature="int $Obfuz$RVA_Value117" newName="$yd" />
+      <field signature="int $Obfuz$RVA_Value118" newName="$Yd" />
+      <field signature="int $Obfuz$RVA_Value119" newName="$zd" />
+      <field signature="int $Obfuz$RVA_Value120" newName="$Zd" />
+      <field signature="int $Obfuz$RVA_Value121" newName="$aD" />
+      <field signature="int $Obfuz$RVA_Value122" newName="$AD" />
+      <field signature="int $Obfuz$RVA_Value123" newName="$bD" />
+      <field signature="int $Obfuz$RVA_Value124" newName="$BD" />
+      <field signature="int $Obfuz$RVA_Value125" newName="$cD" />
+      <field signature="int $Obfuz$RVA_Value126" newName="$CD" />
+      <field signature="int $Obfuz$RVA_Value127" newName="$dD" />
+      <field signature="int $Obfuz$RVA_Value128" newName="$DD" />
+      <field signature="int $Obfuz$RVA_Value129" newName="$eD" />
+      <field signature="int $Obfuz$RVA_Value130" newName="$ED" />
+      <field signature="int $Obfuz$RVA_Value131" newName="$fD" />
+      <field signature="int $Obfuz$RVA_Value132" newName="$FD" />
+      <field signature="int $Obfuz$RVA_Value133" newName="$gD" />
+      <field signature="int $Obfuz$RVA_Value134" newName="$GD" />
+      <field signature="int $Obfuz$RVA_Value135" newName="$hD" />
+      <field signature="int $Obfuz$RVA_Value136" newName="$HD" />
+      <field signature="int $Obfuz$RVA_Value137" newName="$iD" />
+      <field signature="int $Obfuz$RVA_Value138" newName="$ID" />
+      <field signature="int $Obfuz$RVA_Value139" newName="$jD" />
+    </type>
+    <type fullName="$Obfuz$ProxyCall" newFullName="$w" status="Renamed">
+      <method signature="bool $Obfuz$ProxyCall::@$Obfuz$Dispatch_1013_12616511([UnityEngine.CoreModule]UnityEngine.Quaternion, [UnityEngine.CoreModule]UnityEngine.Quaternion, int, int)" newName="$aA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_1013_12616511(Quaternion, Quaternion, Int32, Int32)" newStackTraceSignature="$w:$aA(Quaternion, Quaternion, Int32, Int32)" />
+      <method signature="bool $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_12616511(object, int)" newName="$AA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_12616511(Object, Int32)" newStackTraceSignature="$w:$AA(Object, Int32)" />
+      <method signature="bool $Obfuz$ProxyCall::@$Obfuz$Dispatch_25763_12616511(int, int)" newName="$bA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_25763_12616511(Int32, Int32)" newStackTraceSignature="$w:$bA(Int32, Int32)" />
+      <method signature="bool $Obfuz$ProxyCall::@$Obfuz$Dispatch_36812_12616511(object, object, int)" newName="$BA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_36812_12616511(Object, Object, Int32)" newStackTraceSignature="$w:$BA(Object, Object, Int32)" />
+      <method signature="bool $Obfuz$ProxyCall::@$Obfuz$Dispatch_40538_12616511([UnityEngine.CoreModule]UnityEngine.Ray, nuint, float, int, int)" newName="$cA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_40538_12616511(Ray, UIntPtr, Single, Int32, Int32)" newStackTraceSignature="$w:$cA(Ray, UIntPtr, Single, Int32, Int32)" />
+      <method signature="bool $Obfuz$ProxyCall::@$Obfuz$Dispatch_42203_12616511(object, [UnityEngine.CoreModule]UnityEngine.Vector3, object, int)" newName="$CA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_42203_12616511(Object, Vector3, Object, Int32)" newStackTraceSignature="$w:$CA(Object, Vector3, Object, Int32)" />
+      <method signature="bool $Obfuz$ProxyCall::@$Obfuz$Dispatch_49997_12616511([UnityEngine.CoreModule]UnityEngine.Vector3, [UnityEngine.CoreModule]UnityEngine.Vector3, int, int)" newName="$dA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_49997_12616511(Vector3, Vector3, Int32, Int32)" newStackTraceSignature="$w:$dA(Vector3, Vector3, Int32, Int32)" />
+      <method signature="bool $Obfuz$ProxyCall::@$Obfuz$Dispatch_6317_12616511(object, [UnityEngine.CoreModule]UnityEngine.Vector2, object, nuint, int)" newName="$DA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_6317_12616511(Object, Vector2, Object, UIntPtr, Int32)" newStackTraceSignature="$w:$DA(Object, Vector2, Object, UIntPtr, Int32)" />
+      <method signature="System.Collections.IEnumerator $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_13605213(object, int)" newName="$eA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_13605213(Object, Int32)" newStackTraceSignature="$w:$eA(Object, Int32)" />
+      <method signature="int $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_12091355(object, int)" newName="$EA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_12091355(Object, Int32)" newStackTraceSignature="$w:$EA(Object, Int32)" />
+      <method signature="int $Obfuz$ProxyCall::@$Obfuz$Dispatch_22824_12091355(int)" newName="$fA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_22824_12091355(Int32)" newStackTraceSignature="$w:$fA(Int32)" />
+      <method signature="int $Obfuz$ProxyCall::@$Obfuz$Dispatch_42203_12091355(object, [UnityEngine.CoreModule]UnityEngine.Vector3, object, int)" newName="$FA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_42203_12091355(Object, Vector3, Object, Int32)" newStackTraceSignature="$w:$FA(Object, Vector3, Object, Int32)" />
+      <method signature="int $Obfuz$ProxyCall::@$Obfuz$Dispatch_46378_12091355(int, int, int)" newName="$gA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_46378_12091355(Int32, Int32, Int32)" newStackTraceSignature="$w:$gA(Int32, Int32, Int32)" />
+      <method signature="int $Obfuz$ProxyCall::@$Obfuz$Dispatch_56136_12091355(object, [UnityEngine.CoreModule]UnityEngine.Vector3, object, byte, int)" newName="$GA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_56136_12091355(Object, Vector3, Object, Byte, Int32)" newStackTraceSignature="$w:$GA(Object, Vector3, Object, Byte, Int32)" />
+      <method signature="float $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_3119315(object, int)" newName="$hA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_3119315(Object, Int32)" newStackTraceSignature="$w:$hA(Object, Int32)" />
+      <method signature="float $Obfuz$ProxyCall::@$Obfuz$Dispatch_13194_3119315([UnityEngine.CoreModule]UnityEngine.Vector3, [UnityEngine.CoreModule]UnityEngine.Vector3, int)" newName="$HA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_13194_3119315(Vector3, Vector3, Int32)" newStackTraceSignature="$w:$HA(Vector3, Vector3, Int32)" />
+      <method signature="float $Obfuz$ProxyCall::@$Obfuz$Dispatch_19129_3119315(object, float, int)" newName="$iA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_19129_3119315(Object, Single, Int32)" newStackTraceSignature="$w:$iA(Object, Single, Int32)" />
+      <method signature="float $Obfuz$ProxyCall::@$Obfuz$Dispatch_22824_3119315(int)" newName="$IA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_22824_3119315(Int32)" newStackTraceSignature="$w:$IA(Int32)" />
+      <method signature="float $Obfuz$ProxyCall::@$Obfuz$Dispatch_2966_3119315(nint, int)" newName="$jA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_2966_3119315(IntPtr, Int32)" newStackTraceSignature="$w:$jA(IntPtr, Int32)" />
+      <method signature="float $Obfuz$ProxyCall::@$Obfuz$Dispatch_37781_3119315(float, float, float, int)" newName="$JA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_37781_3119315(Single, Single, Single, Int32)" newStackTraceSignature="$w:$JA(Single, Single, Single, Int32)" />
+      <method signature="float $Obfuz$ProxyCall::@$Obfuz$Dispatch_47418_3119315(float, float, int)" newName="$kA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_47418_3119315(Single, Single, Int32)" newStackTraceSignature="$w:$kA(Single, Single, Int32)" />
+      <method signature="float $Obfuz$ProxyCall::@$Obfuz$Dispatch_59003_3119315(float, int)" newName="$KA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_59003_3119315(Single, Int32)" newStackTraceSignature="$w:$KA(Single, Int32)" />
+      <method signature="string $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_11558398(object, int)" newName="$lA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_11558398(Object, Int32)" newStackTraceSignature="$w:$lA(Object, Int32)" />
+      <method signature="string $Obfuz$ProxyCall::@$Obfuz$Dispatch_2966_11558398(nint, int)" newName="$LA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_2966_11558398(IntPtr, Int32)" newStackTraceSignature="$w:$LA(IntPtr, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_4780505(object, int)" newName="$mA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_4780505(Object, Int32)" newStackTraceSignature="$w:$mA(Object, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_12519_4780505(object, byte, int)" newName="$MA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_12519_4780505(Object, Byte, Int32)" newStackTraceSignature="$w:$MA(Object, Byte, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_19129_4780505(object, float, int)" newName="$nA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_19129_4780505(Object, Single, Int32)" newStackTraceSignature="$w:$nA(Object, Single, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_19188_4780505(nint, object, int)" newName="$NA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_19188_4780505(IntPtr, Object, Int32)" newStackTraceSignature="$w:$NA(IntPtr, Object, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_21745_4780505(object, [UnityEngine.CoreModule]UnityEngine.Vector3, int)" newName="$oA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_21745_4780505(Object, Vector3, Int32)" newStackTraceSignature="$w:$oA(Object, Vector3, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_25763_4780505(int, int)" newName="$OA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_25763_4780505(Int32, Int32)" newStackTraceSignature="$w:$OA(Int32, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_26267_4780505(object, ushort, int, int)" newName="$pA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_26267_4780505(Object, UInt16, Int32, Int32)" newStackTraceSignature="$w:$pA(Object, UInt16, Int32, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_26461_4780505(object, object, byte, int)" newName="$PA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_26461_4780505(Object, Object, Byte, Int32)" newStackTraceSignature="$w:$PA(Object, Object, Byte, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_28024_4780505(object, int, float, int)" newName="$qA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_28024_4780505(Object, Int32, Single, Int32)" newStackTraceSignature="$w:$qA(Object, Int32, Single, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_31188_4780505(object, [UnityEngine.CoreModule]UnityEngine.Color, int)" newName="$QA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_31188_4780505(Object, Color, Int32)" newStackTraceSignature="$w:$QA(Object, Color, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_31278_4780505(object, object, int, int, int)" newName="$rA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_31278_4780505(Object, Object, Int32, Int32, Int32)" newStackTraceSignature="$w:$rA(Object, Object, Int32, Int32, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_31336_4780505(nint, int, int, int)" newName="$RA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_31336_4780505(IntPtr, Int32, Int32, Int32)" newStackTraceSignature="$w:$RA(IntPtr, Int32, Int32, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_32318_4780505(object, object, float, float, int)" newName="$sA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_32318_4780505(Object, Object, Single, Single, Int32)" newStackTraceSignature="$w:$sA(Object, Object, Single, Single, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_33071_4780505(object, object, float, int)" newName="$SA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_33071_4780505(Object, Object, Single, Int32)" newStackTraceSignature="$w:$SA(Object, Object, Single, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_35652_4780505(object, object, [UnityEngine.CoreModule]UnityEngine.Matrix4x4, int)" newName="$tA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_35652_4780505(Object, Object, Matrix4x4, Int32)" newStackTraceSignature="$w:$tA(Object, Object, Matrix4x4, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_36325_4780505(object, object, object, int, int)" newName="$TA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_36325_4780505(Object, Object, Object, Int32, Int32)" newStackTraceSignature="$w:$TA(Object, Object, Object, Int32, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_36812_4780505(object, object, int)" newName="$uA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_36812_4780505(Object, Object, Int32)" newStackTraceSignature="$w:$uA(Object, Object, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_36940_4780505(object, [UnityEngine.CoreModule]UnityEngine.Vector3[], int)" newName="$UA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_36940_4780505(Object, Vector3[], Int32)" newStackTraceSignature="$w:$UA(Object, Vector3[], Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_40964_4780505(object, byte, byte, int)" newName="$vA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_40964_4780505(Object, Byte, Byte, Int32)" newStackTraceSignature="$w:$vA(Object, Byte, Byte, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_46642_4780505(object, [UnityEngine.CoreModule]UnityEngine.Color32[], int)" newName="$VA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_46642_4780505(Object, Color32[], Int32)" newStackTraceSignature="$w:$VA(Object, Color32[], Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_51425_4780505(object, int, int)" newName="$wA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_51425_4780505(Object, Int32, Int32)" newStackTraceSignature="$w:$wA(Object, Int32, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_51596_4780505(object, [UnityEngine.CoreModule]UnityEngine.Vector4, int)" newName="$WA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_51596_4780505(Object, Vector4, Int32)" newStackTraceSignature="$w:$WA(Object, Vector4, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_52393_4780505(byte, int)" newName="$xA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_52393_4780505(Byte, Int32)" newStackTraceSignature="$w:$xA(Byte, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_56816_4780505(object, [UnityEngine.CoreModule]UnityEngine.Vector3, int, int)" newName="$XA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_56816_4780505(Object, Vector3, Int32, Int32)" newStackTraceSignature="$w:$XA(Object, Vector3, Int32, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_57430_4780505(object, [UnityEngine.CoreModule]UnityEngine.Vector2, int)" newName="$yA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_57430_4780505(Object, Vector2, Int32)" newStackTraceSignature="$w:$yA(Object, Vector2, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_59183_4780505(nint, [UnityEngine.CoreModule]UnityEngine.Vector3, [UnityEngine.CoreModule]UnityEngine.Quaternion, [UnityEngine.CoreModule]UnityEngine.Vector3, int)" newName="$YA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_59183_4780505(IntPtr, Vector3, Quaternion, Vector3, Int32)" newStackTraceSignature="$w:$YA(IntPtr, Vector3, Quaternion, Vector3, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_61469_4780505(object, [UnityEngine.CoreModule]UnityEngine.Quaternion, int)" newName="$zA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_61469_4780505(Object, Quaternion, Int32)" newStackTraceSignature="$w:$zA(Object, Quaternion, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_62612_4780505(object, [UnityEngine.CoreModule]UnityEngine.Keyframe[], int)" newName="$ZA" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_62612_4780505(Object, Keyframe[], Int32)" newStackTraceSignature="$w:$ZA(Object, Keyframe[], Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_65367_4780505(object, object, int, int)" newName="$ab" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_65367_4780505(Object, Object, Int32, Int32)" newStackTraceSignature="$w:$ab(Object, Object, Int32, Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_7089_4780505(object, [UnityEngine.CoreModule]UnityEngine.Vector2[], int)" newName="$Ab" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_7089_4780505(Object, Vector2[], Int32)" newStackTraceSignature="$w:$Ab(Object, Vector2[], Int32)" />
+      <method signature="void $Obfuz$ProxyCall::@$Obfuz$Dispatch_8739_4780505(object, float, float, float, int)" newName="$bb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_8739_4780505(Object, Single, Single, Single, Int32)" newStackTraceSignature="$w:$bb(Object, Single, Single, Single, Int32)" />
+      <method signature="[Assembly-CSharp]TMPro.Examples.TextMeshProFloatingText $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_182931(object, int)" newName="$Bb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_182931(Object, Int32)" newStackTraceSignature="$w:$Bb(Object, Int32)" />
+      <method signature="[Unity.TextMeshPro]TMPro.TextContainer $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_5519160(object, int)" newName="$cb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_5519160(Object, Int32)" newStackTraceSignature="$w:$cb(Object, Int32)" />
+      <method signature="[Unity.TextMeshPro]TMPro.TextMeshPro $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_12117679(object, int)" newName="$Cb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_12117679(Object, Int32)" newStackTraceSignature="$w:$Cb(Object, Int32)" />
+      <method signature="[Unity.TextMeshPro]TMPro.TextMeshProUGUI $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_4308269(object, int)" newName="$db" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_4308269(Object, Int32)" newStackTraceSignature="$w:$db(Object, Int32)" />
+      <method signature="[Unity.TextMeshPro]TMPro.TMP_FontAsset $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_3847969(object, int)" newName="$Db" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_3847969(Object, Int32)" newStackTraceSignature="$w:$Db(Object, Int32)" />
+      <method signature="[Unity.TextMeshPro]TMPro.TMP_FontAsset $Obfuz$ProxyCall::@$Obfuz$Dispatch_2693_3847969(object, int, int, int, int, int, int, byte, int)" newName="$eb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_2693_3847969(Object, Int32, Int32, Int32, Int32, Int32, Int32, Byte, Int32)" newStackTraceSignature="$w:$eb(Object, Int32, Int32, Int32, Int32, Int32, Int32, Byte, Int32)" />
+      <method signature="[Unity.TextMeshPro]TMPro.TMP_InputField/SubmitEvent $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_11577376(object, int)" newName="$Eb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_11577376(Object, Int32)" newStackTraceSignature="$w:$Eb(Object, Int32)" />
+      <method signature="[Unity.TextMeshPro]TMPro.TMP_MeshInfo[] $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_2931462(object, int)" newName="$fb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_2931462(Object, Int32)" newStackTraceSignature="$w:$fb(Object, Int32)" />
+      <method signature="[Unity.TextMeshPro]TMPro.TMP_Text $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_16357659(object, int)" newName="$Fb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_16357659(Object, Int32)" newStackTraceSignature="$w:$Fb(Object, Int32)" />
+      <method signature="[Assembly-CSharp]TMPro.TMP_TextEventHandler/CharacterSelectionEvent $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_8165811(object, int)" newName="$gb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_8165811(Object, Int32)" newStackTraceSignature="$w:$gb(Object, Int32)" />
+      <method signature="[Assembly-CSharp]TMPro.TMP_TextEventHandler/LineSelectionEvent $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_14336708(object, int)" newName="$Gb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_14336708(Object, Int32)" newStackTraceSignature="$w:$Gb(Object, Int32)" />
+      <method signature="[Assembly-CSharp]TMPro.TMP_TextEventHandler/LinkSelectionEvent $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_11233358(object, int)" newName="$hb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_11233358(Object, Int32)" newStackTraceSignature="$w:$hb(Object, Int32)" />
+      <method signature="[Assembly-CSharp]TMPro.TMP_TextEventHandler/SpriteSelectionEvent $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_1253379(object, int)" newName="$Hb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_1253379(Object, Int32)" newStackTraceSignature="$w:$Hb(Object, Int32)" />
+      <method signature="[Assembly-CSharp]TMPro.TMP_TextEventHandler/WordSelectionEvent $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_8695338(object, int)" newName="$ib" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_8695338(Object, Int32)" newStackTraceSignature="$w:$ib(Object, Int32)" />
+      <method signature="[Unity.TextMeshPro]TMPro.TMP_TextInfo $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_9498485(object, int)" newName="$Ib" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_9498485(Object, Int32)" newStackTraceSignature="$w:$Ib(Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Bounds $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_21290(object, int)" newName="$jb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_21290(Object, Int32)" newStackTraceSignature="$w:$jb(Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Camera $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_8674810(object, int)" newName="$Jb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_8674810(Object, Int32)" newStackTraceSignature="$w:$Jb(Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Camera $Obfuz$ProxyCall::@$Obfuz$Dispatch_22824_8674810(int)" newName="$kb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_22824_8674810(Int32)" newStackTraceSignature="$w:$kb(Int32)" />
+      <method signature="[UnityEngine.UIModule]UnityEngine.Canvas $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_14829071(object, int)" newName="$Kb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_14829071(Object, Int32)" newStackTraceSignature="$w:$Kb(Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Color $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_7536978(object, int)" newName="$lb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_7536978(Object, Int32)" newStackTraceSignature="$w:$lb(Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Color $Obfuz$ProxyCall::@$Obfuz$Dispatch_22824_7536978(int)" newName="$Lb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_22824_7536978(Int32)" newStackTraceSignature="$w:$Lb(Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Color $Obfuz$ProxyCall::@$Obfuz$Dispatch_5785_7536978([UnityEngine.CoreModule]UnityEngine.Color32, int)" newName="$mb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_5785_7536978(Color32, Int32)" newStackTraceSignature="$w:$mb(Color32, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Color32 $Obfuz$ProxyCall::@$Obfuz$Dispatch_5526_16284057([UnityEngine.CoreModule]UnityEngine.Color, int)" newName="$Mb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_5526_16284057(Color, Int32)" newStackTraceSignature="$w:$Mb(Color, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Color32 $Obfuz$ProxyCall::@$Obfuz$Dispatch_65296_16284057([UnityEngine.CoreModule]UnityEngine.Color32, float, int)" newName="$nb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_65296_16284057(Color32, Single, Int32)" newStackTraceSignature="$w:$nb(Color32, Single, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Coroutine $Obfuz$ProxyCall::@$Obfuz$Dispatch_36812_11873513(object, object, int)" newName="$Nb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_36812_11873513(Object, Object, Int32)" newStackTraceSignature="$w:$Nb(Object, Object, Int32)" />
+      <method signature="[UnityEngine.TextRenderingModule]UnityEngine.Font $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_15352804(object, int)" newName="$ob" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_15352804(Object, Int32)" newStackTraceSignature="$w:$ob(Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.GameObject $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_11979780(object, int)" newName="$Ob" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_11979780(Object, Int32)" newStackTraceSignature="$w:$Ob(Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Keyframe[] $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_7718162(object, int)" newName="$pb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_7718162(Object, Int32)" newStackTraceSignature="$w:$pb(Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Light $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_16232847(object, int)" newName="$Pb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_16232847(Object, Int32)" newStackTraceSignature="$w:$Pb(Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Material $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_4258084(object, int)" newName="$qb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_4258084(Object, Int32)" newStackTraceSignature="$w:$qb(Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Matrix4x4 $Obfuz$ProxyCall::@$Obfuz$Dispatch_27577_8399300([UnityEngine.CoreModule]UnityEngine.Vector3, [UnityEngine.CoreModule]UnityEngine.Quaternion, [UnityEngine.CoreModule]UnityEngine.Vector3, int)" newName="$Qb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_27577_8399300(Vector3, Quaternion, Vector3, Int32)" newStackTraceSignature="$w:$Qb(Vector3, Quaternion, Vector3, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Mesh $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_5920996(object, int)" newName="$rb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_5920996(Object, Int32)" newStackTraceSignature="$w:$rb(Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Object $Obfuz$ProxyCall::@$Obfuz$Dispatch_36812_11700658(object, object, int)" newName="$Rb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_36812_11700658(Object, Object, Int32)" newStackTraceSignature="$w:$Rb(Object, Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Quaternion $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_4455527(object, int)" newName="$sb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_4455527(Object, Int32)" newStackTraceSignature="$w:$sb(Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Quaternion $Obfuz$ProxyCall::@$Obfuz$Dispatch_22824_4455527(int)" newName="$Sb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_22824_4455527(Int32)" newStackTraceSignature="$w:$Sb(Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Quaternion $Obfuz$ProxyCall::@$Obfuz$Dispatch_34253_4455527([UnityEngine.CoreModule]UnityEngine.Quaternion, [UnityEngine.CoreModule]UnityEngine.Quaternion, float, int)" newName="$tb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_34253_4455527(Quaternion, Quaternion, Single, Int32)" newStackTraceSignature="$w:$tb(Quaternion, Quaternion, Single, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Quaternion $Obfuz$ProxyCall::@$Obfuz$Dispatch_37781_4455527(float, float, float, int)" newName="$Tb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_37781_4455527(Single, Single, Single, Int32)" newStackTraceSignature="$w:$Tb(Single, Single, Single, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Quaternion $Obfuz$ProxyCall::@$Obfuz$Dispatch_61619_4455527([UnityEngine.CoreModule]UnityEngine.Vector3, int)" newName="$ub" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_61619_4455527(Vector3, Int32)" newStackTraceSignature="$w:$ub(Vector3, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Ray $Obfuz$ProxyCall::@$Obfuz$Dispatch_21745_15401475(object, [UnityEngine.CoreModule]UnityEngine.Vector3, int)" newName="$Ub" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_21745_15401475(Object, Vector3, Int32)" newStackTraceSignature="$w:$Ub(Object, Vector3, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.RectTransform $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_12743197(object, int)" newName="$vb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_12743197(Object, Int32)" newStackTraceSignature="$w:$vb(Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Renderer $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_2056910(object, int)" newName="$Vb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_2056910(Object, Int32)" newStackTraceSignature="$w:$Vb(Object, Int32)" />
+      <method signature="[UnityEngine.UIModule]UnityEngine.RenderMode $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_2990178(object, int)" newName="$wb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_2990178(Object, Int32)" newStackTraceSignature="$w:$wb(Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.RuntimePlatform $Obfuz$ProxyCall::@$Obfuz$Dispatch_22824_7124300(int)" newName="$Wb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_22824_7124300(Int32)" newStackTraceSignature="$w:$Wb(Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Shader $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_4364218(object, int)" newName="$xb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_4364218(Object, Int32)" newStackTraceSignature="$w:$xb(Object, Int32)" />
+      <method signature="[UnityEngine.TextRenderingModule]UnityEngine.TextMesh $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_9562133(object, int)" newName="$Xb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_9562133(Object, Int32)" newStackTraceSignature="$w:$Xb(Object, Int32)" />
+      <method signature="[UnityEngine.InputLegacyModule]UnityEngine.Touch $Obfuz$ProxyCall::@$Obfuz$Dispatch_25763_13984506(int, int)" newName="$yb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_25763_13984506(Int32, Int32)" newStackTraceSignature="$w:$yb(Int32, Int32)" />
+      <method signature="[UnityEngine.InputLegacyModule]UnityEngine.TouchPhase $Obfuz$ProxyCall::@$Obfuz$Dispatch_2966_5889641(nint, int)" newName="$Yb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_2966_5889641(IntPtr, Int32)" newStackTraceSignature="$w:$Yb(IntPtr, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Transform $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_11509251(object, int)" newName="$zb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_11509251(Object, Int32)" newStackTraceSignature="$w:$zb(Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Transform $Obfuz$ProxyCall::@$Obfuz$Dispatch_2966_11509251(nint, int)" newName="$Zb" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_2966_11509251(IntPtr, Int32)" newStackTraceSignature="$w:$Zb(IntPtr, Int32)" />
+      <method signature="[UnityEngine.UI]UnityEngine.UI.Text $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_3669768(object, int)" newName="$aB" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_3669768(Object, Int32)" newStackTraceSignature="$w:$aB(Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Vector2 $Obfuz$ProxyCall::@$Obfuz$Dispatch_2966_590508(nint, int)" newName="$AB" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_2966_590508(IntPtr, Int32)" newStackTraceSignature="$w:$AB(IntPtr, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Vector2 $Obfuz$ProxyCall::@$Obfuz$Dispatch_38088_590508([UnityEngine.CoreModule]UnityEngine.Vector2, [UnityEngine.CoreModule]UnityEngine.Vector2, int)" newName="$bB" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_38088_590508(Vector2, Vector2, Int32)" newStackTraceSignature="$w:$bB(Vector2, Vector2, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Vector2 $Obfuz$ProxyCall::@$Obfuz$Dispatch_61360_590508(object, float, float, int)" newName="$BB" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_61360_590508(Object, Single, Single, Int32)" newStackTraceSignature="$w:$BB(Object, Single, Single, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Vector2 $Obfuz$ProxyCall::@$Obfuz$Dispatch_61619_590508([UnityEngine.CoreModule]UnityEngine.Vector3, int)" newName="$cB" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_61619_590508(Vector3, Int32)" newStackTraceSignature="$w:$cB(Vector3, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Vector3 $Obfuz$ProxyCall::@$Obfuz$Dispatch_10578_590507([UnityEngine.CoreModule]UnityEngine.Vector3, float, int)" newName="$CB" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_10578_590507(Vector3, Single, Int32)" newStackTraceSignature="$w:$CB(Vector3, Single, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Vector3 $Obfuz$ProxyCall::@$Obfuz$Dispatch_11150_590507(object, int)" newName="$dB" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_11150_590507(Object, Int32)" newStackTraceSignature="$w:$dB(Object, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Vector3 $Obfuz$ProxyCall::@$Obfuz$Dispatch_13194_590507([UnityEngine.CoreModule]UnityEngine.Vector3, [UnityEngine.CoreModule]UnityEngine.Vector3, int)" newName="$DB" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_13194_590507(Vector3, Vector3, Int32)" newStackTraceSignature="$w:$DB(Vector3, Vector3, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Vector3 $Obfuz$ProxyCall::@$Obfuz$Dispatch_20454_590507([UnityEngine.CoreModule]UnityEngine.Quaternion, [UnityEngine.CoreModule]UnityEngine.Vector3, int)" newName="$eB" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_20454_590507(Quaternion, Vector3, Int32)" newStackTraceSignature="$w:$eB(Quaternion, Vector3, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Vector3 $Obfuz$ProxyCall::@$Obfuz$Dispatch_21745_590507(object, [UnityEngine.CoreModule]UnityEngine.Vector3, int)" newName="$EB" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_21745_590507(Object, Vector3, Int32)" newStackTraceSignature="$w:$EB(Object, Vector3, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Vector3 $Obfuz$ProxyCall::@$Obfuz$Dispatch_22824_590507(int)" newName="$fB" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_22824_590507(Int32)" newStackTraceSignature="$w:$fB(Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Vector3 $Obfuz$ProxyCall::@$Obfuz$Dispatch_26714_590507([UnityEngine.CoreModule]UnityEngine.Vector3, [UnityEngine.CoreModule]UnityEngine.Vector3, nuint, float, int)" newName="$FB" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_26714_590507(Vector3, Vector3, UIntPtr, Single, Int32)" newStackTraceSignature="$w:$FB(Vector3, Vector3, UIntPtr, Single, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Vector3 $Obfuz$ProxyCall::@$Obfuz$Dispatch_2966_590507(nint, int)" newName="$gB" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_2966_590507(IntPtr, Int32)" newStackTraceSignature="$w:$gB(IntPtr, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Vector3 $Obfuz$ProxyCall::@$Obfuz$Dispatch_31768_590507([UnityEngine.CoreModule]UnityEngine.Vector2, int)" newName="$GB" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_31768_590507(Vector2, Int32)" newStackTraceSignature="$w:$GB(Vector2, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Vector3 $Obfuz$ProxyCall::@$Obfuz$Dispatch_4121_590507(nint, [UnityEngine.CoreModule]UnityEngine.Vector3, int)" newName="$hB" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_4121_590507(IntPtr, Vector3, Int32)" newStackTraceSignature="$w:$hB(IntPtr, Vector3, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Vector3 $Obfuz$ProxyCall::@$Obfuz$Dispatch_61619_590507([UnityEngine.CoreModule]UnityEngine.Vector3, int)" newName="$HB" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_61619_590507(Vector3, Int32)" newStackTraceSignature="$w:$HB(Vector3, Int32)" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.Vector3 $Obfuz$ProxyCall::@$Obfuz$Dispatch_8739_590507(object, float, float, float, int)" newName="$iB" oldStackTraceSignature="$Obfuz$ProxyCall:$Obfuz$Dispatch_8739_590507(Object, Single, Single, Single, Int32)" newStackTraceSignature="$w:$iB(Object, Single, Single, Single, Int32)" />
+    </type>
+    <type fullName="$Obfuz$RVA$0" newFullName="$V" status="Renamed">
+      <field signature="[Assembly-CSharp]$ObfuzRVA$DataHolder2048 $RVA_Data0" newName="$JD" />
+      <field signature="byte[] $RVA_Value0" newName="$kD" />
+      <field signature="[Assembly-CSharp]$ObfuzRVA$DataHolder2048 $RVA_Data1" newName="$KD" />
+      <field signature="byte[] $RVA_Value1" newName="$lD" />
+      <field signature="[Assembly-CSharp]$ObfuzRVA$DataHolder2048 $RVA_Data2" newName="$LD" />
+      <field signature="byte[] $RVA_Value2" newName="$mD" />
+    </type>
+    <type fullName="$ObfuzRVA$DataHolder2048" newFullName="$v" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;" newFullName="$n" status="Renamed">
+      <field signature="[Assembly-CSharp]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_3 $Obfuz$WatermarkDataHolderField3" newName="$Kc" />
+      <field signature="[Assembly-CSharp]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_13 $Obfuz$WatermarkDataHolderField13" newName="$lc" />
+      <field signature="[Assembly-CSharp]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_10 $Obfuz$WatermarkDataHolderField10" newName="$Lc" />
+      <field signature="[Assembly-CSharp]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize32_12 $Obfuz$WatermarkDataHolderField12" newName="$mc" />
+      <field signature="[Assembly-CSharp]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize48_9 $Obfuz$WatermarkDataHolderField9" newName="$Mc" />
+      <field signature="[Assembly-CSharp]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize28_7 $Obfuz$WatermarkDataHolderField7" newName="$nc" />
+      <field signature="[Assembly-CSharp]&lt;PrivateImplementationDetails&gt;/__StaticArrayInitTypeSize=1536 D8E8FAF2E82A1A6F3F1DC9A03866B409F547268BC171307D48BAE4F0C4A0EAA6" newName="$Nc" />
+      <field signature="[Assembly-CSharp]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize44_2 $Obfuz$WatermarkDataHolderField2" newName="$oc" />
+      <field signature="[Assembly-CSharp]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_6 $Obfuz$WatermarkDataHolderField6" newName="$Oc" />
+      <field signature="[Assembly-CSharp]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize28_4 $Obfuz$WatermarkDataHolderField4" newName="$pc" />
+      <field signature="[Assembly-CSharp]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize44_5 $Obfuz$WatermarkDataHolderField5" newName="$Pc" />
+      <field signature="[Assembly-CSharp]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize28_11 $Obfuz$WatermarkDataHolderField11" newName="$qc" />
+      <field signature="[Assembly-CSharp]&lt;PrivateImplementationDetails&gt;/__StaticArrayInitTypeSize=2640 4344B664D0727BE66F48BAAFF5CC8F225CAC41A614B5C0D13BA862A7FA34DEF0" newName="$Qc" />
+      <field signature="[Assembly-CSharp]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_8 $Obfuz$WatermarkDataHolderField8" newName="$rc" />
+    </type>
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize28_11" newFullName="$n/$t" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize28_4" newFullName="$n/$P" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize28_7" newFullName="$n/$r" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize32_12" newFullName="$n/$T" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_10" newFullName="$n/$S" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_13" newFullName="$n/$u" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_3" newFullName="$n/$p" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_6" newFullName="$n/$Q" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_8" newFullName="$n/$R" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize44_2" newFullName="$n/$O" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize44_5" newFullName="$n/$q" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize48_9" newFullName="$n/$s" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/__StaticArrayInitTypeSize=1536" newFullName="$n/$N" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/__StaticArrayInitTypeSize=2640" newFullName="$n/$o" status="Renamed" />
+    <type fullName="Bootstrap" newFullName="" status="NotRenamed">
+      <method signature="int Bootstrap::Add([Assembly-CSharp]Bootstrap, int, int)" newName="$a" oldStackTraceSignature="Bootstrap:Add(Int32, Int32)" newStackTraceSignature="Bootstrap:$a(Int32, Int32)" />
+    </type>
+    <type fullName="ChatController" newFullName="" status="NotRenamed">
+      <method signature="void ChatController::AddToChatOutput([Assembly-CSharp]ChatController, string)" newName="$b" oldStackTraceSignature="ChatController:AddToChatOutput(String)" newStackTraceSignature="ChatController:$b(String)" />
+    </type>
+    <type fullName="DropdownSample" newFullName="" status="NotRenamed">
+      <method signature="void DropdownSample::OnButtonClick([Assembly-CSharp]DropdownSample)" newName="$B" oldStackTraceSignature="DropdownSample:OnButtonClick()" newStackTraceSignature="DropdownSample:$B()" />
+    </type>
+    <type fullName="EnvMapAnimator" newFullName="" status="NotRenamed">
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_Text m_textMeshPro" newName="$a" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Material m_material" newName="$A" />
+    </type>
+    <type fullName="EnvMapAnimator/&lt;Start&gt;d__4" newFullName="EnvMapAnimator/$a" status="Renamed">
+      <field signature="int &lt;&gt;1__state" newName="$b" />
+      <field signature="object &lt;&gt;2__current" newName="$B" />
+      <field signature="[Assembly-CSharp]EnvMapAnimator &lt;&gt;4__this" newName="$c" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Matrix4x4 &lt;matrix&gt;5__2" newName="$C" />
+      <property signature="object System.Collections.Generic.IEnumerator&lt;System.Object&gt;.Current" newName="$a" />
+      <property signature="object System.Collections.IEnumerator.Current" newName="$A" />
+      <method signature="void EnvMapAnimator/&lt;Start&gt;d__4::System.IDisposable.Dispose([Assembly-CSharp]EnvMapAnimator/&lt;Start&gt;d__4)" newName="$FC" oldStackTraceSignature="&lt;Start&gt;d__4:System.IDisposable.Dispose()" newStackTraceSignature="$a:$FC()" />
+      <method signature="object EnvMapAnimator/&lt;Start&gt;d__4::System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current([Assembly-CSharp]EnvMapAnimator/&lt;Start&gt;d__4)" newName="$gC" oldStackTraceSignature="&lt;Start&gt;d__4:System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current()" newStackTraceSignature="$a:$gC()" />
+      <method signature="void EnvMapAnimator/&lt;Start&gt;d__4::System.Collections.IEnumerator.Reset([Assembly-CSharp]EnvMapAnimator/&lt;Start&gt;d__4)" newName="$GC" oldStackTraceSignature="&lt;Start&gt;d__4:System.Collections.IEnumerator.Reset()" newStackTraceSignature="$a:$GC()" />
+      <method signature="object EnvMapAnimator/&lt;Start&gt;d__4::System.Collections.IEnumerator.get_Current([Assembly-CSharp]EnvMapAnimator/&lt;Start&gt;d__4)" newName="$hC" oldStackTraceSignature="&lt;Start&gt;d__4:System.Collections.IEnumerator.get_Current()" newStackTraceSignature="$a:$hC()" />
+    </type>
+    <type fullName="Obfuz.EncryptionVM.GeneratedEncryptionVirtualMachine" newFullName="$a.$M" status="Renamed">
+      <field signature="int[] _secretKey" newName="$kc" />
+      <property signature="int OpCodeCount" newName="$a" />
+      <method signature="int Obfuz.EncryptionVM.GeneratedEncryptionVirtualMachine::get_OpCodeCount([Assembly-CSharp]Obfuz.EncryptionVM.GeneratedEncryptionVirtualMachine)" newName="$Ld" oldStackTraceSignature="Obfuz.EncryptionVM.GeneratedEncryptionVirtualMachine:get_OpCodeCount()" newStackTraceSignature="$a.$M:$Ld()" />
+      <method signature="int Obfuz.EncryptionVM.GeneratedEncryptionVirtualMachine::Encrypt([Assembly-CSharp]Obfuz.EncryptionVM.GeneratedEncryptionVirtualMachine, int, int, int)" newName="$md" oldStackTraceSignature="Obfuz.EncryptionVM.GeneratedEncryptionVirtualMachine:Encrypt(Int32, Int32, Int32)" newStackTraceSignature="$a.$M:$md(Int32, Int32, Int32)" />
+      <method signature="int Obfuz.EncryptionVM.GeneratedEncryptionVirtualMachine::Decrypt([Assembly-CSharp]Obfuz.EncryptionVM.GeneratedEncryptionVirtualMachine, int, int, int)" newName="$Md" oldStackTraceSignature="Obfuz.EncryptionVM.GeneratedEncryptionVirtualMachine:Decrypt(Int32, Int32, Int32)" newStackTraceSignature="$a.$M:$Md(Int32, Int32, Int32)" />
+      <method signature="int Obfuz.EncryptionVM.GeneratedEncryptionVirtualMachine::ExecuteEncrypt([Assembly-CSharp]Obfuz.EncryptionVM.GeneratedEncryptionVirtualMachine, int, int, int)" newName="$z" oldStackTraceSignature="Obfuz.EncryptionVM.GeneratedEncryptionVirtualMachine:ExecuteEncrypt(Int32, Int32, Int32)" newStackTraceSignature="$a.$M:$z(Int32, Int32, Int32)" />
+      <method signature="int Obfuz.EncryptionVM.GeneratedEncryptionVirtualMachine::ExecuteDecrypt([Assembly-CSharp]Obfuz.EncryptionVM.GeneratedEncryptionVirtualMachine, int, int, int)" newName="$Z" oldStackTraceSignature="Obfuz.EncryptionVM.GeneratedEncryptionVirtualMachine:ExecuteDecrypt(Int32, Int32, Int32)" newStackTraceSignature="$a.$M:$Z(Int32, Int32, Int32)" />
+    </type>
+    <type fullName="TestObf" newFullName="" status="NotRenamed">
+      <method signature="void TestObf::OnClickBtn([Assembly-CSharp]TestObf)" newName="$A" oldStackTraceSignature="TestObf:OnClickBtn()" newStackTraceSignature="TestObf:$A()" />
+    </type>
+    <type fullName="TMPro.Examples.Benchmark01" newFullName="" status="NotRenamed">
+      <field signature="[Unity.TextMeshPro]TMPro.TextMeshPro m_textMeshPro" newName="$G" />
+      <field signature="[Unity.TextMeshPro]TMPro.TextContainer m_textContainer" newName="$h" />
+      <field signature="[UnityEngine.TextRenderingModule]UnityEngine.TextMesh m_textMesh" newName="$H" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Material m_material01" newName="$i" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Material m_material02" newName="$I" />
+    </type>
+    <type fullName="TMPro.Examples.Benchmark01/&lt;Start&gt;d__10" newFullName="TMPro.Examples.Benchmark01/$A" status="Renamed">
+      <field signature="int &lt;&gt;1__state" newName="$j" />
+      <field signature="object &lt;&gt;2__current" newName="$J" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.Benchmark01 &lt;&gt;4__this" newName="$k" />
+      <field signature="int &lt;i&gt;5__2" newName="$K" />
+      <property signature="object System.Collections.Generic.IEnumerator&lt;System.Object&gt;.Current" newName="$a" />
+      <property signature="object System.Collections.IEnumerator.Current" newName="$A" />
+      <method signature="void TMPro.Examples.Benchmark01/&lt;Start&gt;d__10::System.IDisposable.Dispose([Assembly-CSharp]TMPro.Examples.Benchmark01/&lt;Start&gt;d__10)" newName="$HC" oldStackTraceSignature="TMPro.Examples.&lt;Start&gt;d__10:System.IDisposable.Dispose()" newStackTraceSignature="TMPro.Examples.$A:$HC()" />
+      <method signature="object TMPro.Examples.Benchmark01/&lt;Start&gt;d__10::System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current([Assembly-CSharp]TMPro.Examples.Benchmark01/&lt;Start&gt;d__10)" newName="$iC" oldStackTraceSignature="TMPro.Examples.&lt;Start&gt;d__10:System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current()" newStackTraceSignature="TMPro.Examples.$A:$iC()" />
+      <method signature="void TMPro.Examples.Benchmark01/&lt;Start&gt;d__10::System.Collections.IEnumerator.Reset([Assembly-CSharp]TMPro.Examples.Benchmark01/&lt;Start&gt;d__10)" newName="$IC" oldStackTraceSignature="TMPro.Examples.&lt;Start&gt;d__10:System.Collections.IEnumerator.Reset()" newStackTraceSignature="TMPro.Examples.$A:$IC()" />
+      <method signature="object TMPro.Examples.Benchmark01/&lt;Start&gt;d__10::System.Collections.IEnumerator.get_Current([Assembly-CSharp]TMPro.Examples.Benchmark01/&lt;Start&gt;d__10)" newName="$jC" oldStackTraceSignature="TMPro.Examples.&lt;Start&gt;d__10:System.Collections.IEnumerator.get_Current()" newStackTraceSignature="TMPro.Examples.$A:$jC()" />
+    </type>
+    <type fullName="TMPro.Examples.Benchmark01_UGUI" newFullName="" status="NotRenamed">
+      <field signature="[Unity.TextMeshPro]TMPro.TextMeshProUGUI m_textMeshPro" newName="$l" />
+      <field signature="[UnityEngine.UI]UnityEngine.UI.Text m_textMesh" newName="$L" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Material m_material01" newName="$m" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Material m_material02" newName="$M" />
+    </type>
+    <type fullName="TMPro.Examples.Benchmark01_UGUI/&lt;Start&gt;d__10" newFullName="TMPro.Examples.Benchmark01_UGUI/$b" status="Renamed">
+      <field signature="int &lt;&gt;1__state" newName="$n" />
+      <field signature="object &lt;&gt;2__current" newName="$N" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.Benchmark01_UGUI &lt;&gt;4__this" newName="$o" />
+      <field signature="int &lt;i&gt;5__2" newName="$O" />
+      <property signature="object System.Collections.Generic.IEnumerator&lt;System.Object&gt;.Current" newName="$a" />
+      <property signature="object System.Collections.IEnumerator.Current" newName="$A" />
+      <method signature="void TMPro.Examples.Benchmark01_UGUI/&lt;Start&gt;d__10::System.IDisposable.Dispose([Assembly-CSharp]TMPro.Examples.Benchmark01_UGUI/&lt;Start&gt;d__10)" newName="$JC" oldStackTraceSignature="TMPro.Examples.&lt;Start&gt;d__10:System.IDisposable.Dispose()" newStackTraceSignature="TMPro.Examples.$b:$JC()" />
+      <method signature="object TMPro.Examples.Benchmark01_UGUI/&lt;Start&gt;d__10::System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current([Assembly-CSharp]TMPro.Examples.Benchmark01_UGUI/&lt;Start&gt;d__10)" newName="$kC" oldStackTraceSignature="TMPro.Examples.&lt;Start&gt;d__10:System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current()" newStackTraceSignature="TMPro.Examples.$b:$kC()" />
+      <method signature="void TMPro.Examples.Benchmark01_UGUI/&lt;Start&gt;d__10::System.Collections.IEnumerator.Reset([Assembly-CSharp]TMPro.Examples.Benchmark01_UGUI/&lt;Start&gt;d__10)" newName="$KC" oldStackTraceSignature="TMPro.Examples.&lt;Start&gt;d__10:System.Collections.IEnumerator.Reset()" newStackTraceSignature="TMPro.Examples.$b:$KC()" />
+      <method signature="object TMPro.Examples.Benchmark01_UGUI/&lt;Start&gt;d__10::System.Collections.IEnumerator.get_Current([Assembly-CSharp]TMPro.Examples.Benchmark01_UGUI/&lt;Start&gt;d__10)" newName="$lC" oldStackTraceSignature="TMPro.Examples.&lt;Start&gt;d__10:System.Collections.IEnumerator.get_Current()" newStackTraceSignature="TMPro.Examples.$b:$lC()" />
+    </type>
+    <type fullName="TMPro.Examples.Benchmark02" newFullName="" status="NotRenamed">
+      <field signature="[Assembly-CSharp]TMPro.Examples.TextMeshProFloatingText floatingText_Script" newName="$p" />
+    </type>
+    <type fullName="TMPro.Examples.Benchmark03/BenchmarkType" newFullName="TMPro.Examples.Benchmark03/$B" status="Renamed">
+      <field signature="[Assembly-CSharp]TMPro.Examples.Benchmark03/BenchmarkType TMP_SDF_MOBILE" newName="$P" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.Benchmark03/BenchmarkType TMP_SDF__MOBILE_SSD" newName="$q" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.Benchmark03/BenchmarkType TMP_SDF" newName="$Q" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.Benchmark03/BenchmarkType TMP_BITMAP_MOBILE" newName="$r" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.Benchmark03/BenchmarkType TEXTMESH_BITMAP" newName="$R" />
+    </type>
+    <type fullName="TMPro.Examples.Benchmark04" newFullName="" status="NotRenamed">
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Transform m_Transform" newName="$s" />
+    </type>
+    <type fullName="TMPro.Examples.CameraController" newFullName="" status="NotRenamed">
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Transform cameraTransform" newName="$S" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Transform dummyTarget" newName="$t" />
+      <field signature="bool previousSmoothing" newName="$T" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Vector3 currentVelocity" newName="$u" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Vector3 desiredPosition" newName="$U" />
+      <field signature="float mouseX" newName="$v" />
+      <field signature="float mouseY" newName="$V" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Vector3 moveVector" newName="$w" />
+      <field signature="float mouseWheel" newName="$W" />
+      <method signature="void TMPro.Examples.CameraController::GetPlayerInput([Assembly-CSharp]TMPro.Examples.CameraController)" newName="$J" oldStackTraceSignature="TMPro.Examples.CameraController:GetPlayerInput()" newStackTraceSignature="TMPro.Examples.CameraController:$J()" />
+    </type>
+    <type fullName="TMPro.Examples.CameraController/CameraModes" newFullName="TMPro.Examples.CameraController/$c" status="Renamed">
+      <field signature="[Assembly-CSharp]TMPro.Examples.CameraController/CameraModes Follow" newName="$x" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.CameraController/CameraModes Isometric" newName="$X" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.CameraController/CameraModes Free" newName="$y" />
+    </type>
+    <type fullName="TMPro.Examples.ObjectSpin" newFullName="" status="NotRenamed">
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Transform m_transform" newName="$Y" />
+      <field signature="float m_time" newName="$z" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Vector3 m_prevPOS" newName="$Z" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Vector3 m_initial_Rotation" newName="$aA" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Vector3 m_initial_Position" newName="$AA" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Color32 m_lightColor" newName="$bA" />
+      <field signature="int frames" newName="$BA" />
+    </type>
+    <type fullName="TMPro.Examples.ObjectSpin/MotionType" newFullName="TMPro.Examples.ObjectSpin/$C" status="Renamed">
+      <field signature="[Assembly-CSharp]TMPro.Examples.ObjectSpin/MotionType Rotation" newName="$cA" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.ObjectSpin/MotionType BackAndForth" newName="$CA" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.ObjectSpin/MotionType Translation" newName="$dA" />
+    </type>
+    <type fullName="TMPro.Examples.ShaderPropAnimator" newFullName="" status="NotRenamed">
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Renderer m_Renderer" newName="$DA" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Material m_Material" newName="$eA" />
+      <method signature="System.Collections.IEnumerator TMPro.Examples.ShaderPropAnimator::AnimateProperties([Assembly-CSharp]TMPro.Examples.ShaderPropAnimator)" newName="$k" oldStackTraceSignature="TMPro.Examples.ShaderPropAnimator:AnimateProperties()" newStackTraceSignature="TMPro.Examples.ShaderPropAnimator:$k()" />
+    </type>
+    <type fullName="TMPro.Examples.ShaderPropAnimator/&lt;AnimateProperties&gt;d__6" newFullName="TMPro.Examples.ShaderPropAnimator/$d" status="Renamed">
+      <field signature="int &lt;&gt;1__state" newName="$EA" />
+      <field signature="object &lt;&gt;2__current" newName="$fA" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.ShaderPropAnimator &lt;&gt;4__this" newName="$FA" />
+      <property signature="object System.Collections.Generic.IEnumerator&lt;System.Object&gt;.Current" newName="$a" />
+      <property signature="object System.Collections.IEnumerator.Current" newName="$A" />
+      <method signature="void TMPro.Examples.ShaderPropAnimator/&lt;AnimateProperties&gt;d__6::System.IDisposable.Dispose([Assembly-CSharp]TMPro.Examples.ShaderPropAnimator/&lt;AnimateProperties&gt;d__6)" newName="$LC" oldStackTraceSignature="TMPro.Examples.&lt;AnimateProperties&gt;d__6:System.IDisposable.Dispose()" newStackTraceSignature="TMPro.Examples.$d:$LC()" />
+      <method signature="object TMPro.Examples.ShaderPropAnimator/&lt;AnimateProperties&gt;d__6::System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current([Assembly-CSharp]TMPro.Examples.ShaderPropAnimator/&lt;AnimateProperties&gt;d__6)" newName="$mC" oldStackTraceSignature="TMPro.Examples.&lt;AnimateProperties&gt;d__6:System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current()" newStackTraceSignature="TMPro.Examples.$d:$mC()" />
+      <method signature="void TMPro.Examples.ShaderPropAnimator/&lt;AnimateProperties&gt;d__6::System.Collections.IEnumerator.Reset([Assembly-CSharp]TMPro.Examples.ShaderPropAnimator/&lt;AnimateProperties&gt;d__6)" newName="$MC" oldStackTraceSignature="TMPro.Examples.&lt;AnimateProperties&gt;d__6:System.Collections.IEnumerator.Reset()" newStackTraceSignature="TMPro.Examples.$d:$MC()" />
+      <method signature="object TMPro.Examples.ShaderPropAnimator/&lt;AnimateProperties&gt;d__6::System.Collections.IEnumerator.get_Current([Assembly-CSharp]TMPro.Examples.ShaderPropAnimator/&lt;AnimateProperties&gt;d__6)" newName="$nC" oldStackTraceSignature="TMPro.Examples.&lt;AnimateProperties&gt;d__6:System.Collections.IEnumerator.get_Current()" newStackTraceSignature="TMPro.Examples.$d:$nC()" />
+    </type>
+    <type fullName="TMPro.Examples.SimpleScript" newFullName="" status="NotRenamed">
+      <field signature="[Unity.TextMeshPro]TMPro.TextMeshPro m_textMeshPro" newName="$gA" />
+      <field signature="float m_frame" newName="$GA" />
+    </type>
+    <type fullName="TMPro.Examples.SkewTextExample" newFullName="" status="NotRenamed">
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_Text m_TextComponent" newName="$hA" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.AnimationCurve TMPro.Examples.SkewTextExample::CopyAnimationCurve([Assembly-CSharp]TMPro.Examples.SkewTextExample, [UnityEngine.CoreModule]UnityEngine.AnimationCurve)" newName="$K" oldStackTraceSignature="TMPro.Examples.SkewTextExample:CopyAnimationCurve(AnimationCurve)" newStackTraceSignature="TMPro.Examples.SkewTextExample:$K(AnimationCurve)" />
+      <method signature="System.Collections.IEnumerator TMPro.Examples.SkewTextExample::WarpText([Assembly-CSharp]TMPro.Examples.SkewTextExample)" newName="$l" oldStackTraceSignature="TMPro.Examples.SkewTextExample:WarpText()" newStackTraceSignature="TMPro.Examples.SkewTextExample:$l()" />
+    </type>
+    <type fullName="TMPro.Examples.SkewTextExample/&lt;WarpText&gt;d__7" newFullName="TMPro.Examples.SkewTextExample/$D" status="Renamed">
+      <field signature="int &lt;&gt;1__state" newName="$HA" />
+      <field signature="object &lt;&gt;2__current" newName="$iA" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.SkewTextExample &lt;&gt;4__this" newName="$IA" />
+      <field signature="float &lt;old_CurveScale&gt;5__2" newName="$jA" />
+      <field signature="float &lt;old_ShearValue&gt;5__3" newName="$JA" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.AnimationCurve &lt;old_curve&gt;5__4" newName="$kA" />
+      <property signature="object System.Collections.Generic.IEnumerator&lt;System.Object&gt;.Current" newName="$a" />
+      <property signature="object System.Collections.IEnumerator.Current" newName="$A" />
+      <method signature="void TMPro.Examples.SkewTextExample/&lt;WarpText&gt;d__7::System.IDisposable.Dispose([Assembly-CSharp]TMPro.Examples.SkewTextExample/&lt;WarpText&gt;d__7)" newName="$NC" oldStackTraceSignature="TMPro.Examples.&lt;WarpText&gt;d__7:System.IDisposable.Dispose()" newStackTraceSignature="TMPro.Examples.$D:$NC()" />
+      <method signature="object TMPro.Examples.SkewTextExample/&lt;WarpText&gt;d__7::System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current([Assembly-CSharp]TMPro.Examples.SkewTextExample/&lt;WarpText&gt;d__7)" newName="$oC" oldStackTraceSignature="TMPro.Examples.&lt;WarpText&gt;d__7:System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current()" newStackTraceSignature="TMPro.Examples.$D:$oC()" />
+      <method signature="void TMPro.Examples.SkewTextExample/&lt;WarpText&gt;d__7::System.Collections.IEnumerator.Reset([Assembly-CSharp]TMPro.Examples.SkewTextExample/&lt;WarpText&gt;d__7)" newName="$OC" oldStackTraceSignature="TMPro.Examples.&lt;WarpText&gt;d__7:System.Collections.IEnumerator.Reset()" newStackTraceSignature="TMPro.Examples.$D:$OC()" />
+      <method signature="object TMPro.Examples.SkewTextExample/&lt;WarpText&gt;d__7::System.Collections.IEnumerator.get_Current([Assembly-CSharp]TMPro.Examples.SkewTextExample/&lt;WarpText&gt;d__7)" newName="$pC" oldStackTraceSignature="TMPro.Examples.&lt;WarpText&gt;d__7:System.Collections.IEnumerator.get_Current()" newStackTraceSignature="TMPro.Examples.$D:$pC()" />
+    </type>
+    <type fullName="TMPro.Examples.TeleType" newFullName="" status="NotRenamed">
+      <field signature="string label01" newName="$KA" />
+      <field signature="string label02" newName="$lA" />
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_Text m_textMeshPro" newName="$LA" />
+    </type>
+    <type fullName="TMPro.Examples.TeleType/&lt;Start&gt;d__4" newFullName="TMPro.Examples.TeleType/$e" status="Renamed">
+      <field signature="int &lt;&gt;1__state" newName="$mA" />
+      <field signature="object &lt;&gt;2__current" newName="$MA" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.TeleType &lt;&gt;4__this" newName="$nA" />
+      <field signature="int &lt;totalVisibleCharacters&gt;5__2" newName="$NA" />
+      <field signature="int &lt;counter&gt;5__3" newName="$oA" />
+      <property signature="object System.Collections.Generic.IEnumerator&lt;System.Object&gt;.Current" newName="$a" />
+      <property signature="object System.Collections.IEnumerator.Current" newName="$A" />
+      <method signature="void TMPro.Examples.TeleType/&lt;Start&gt;d__4::System.IDisposable.Dispose([Assembly-CSharp]TMPro.Examples.TeleType/&lt;Start&gt;d__4)" newName="$PC" oldStackTraceSignature="TMPro.Examples.&lt;Start&gt;d__4:System.IDisposable.Dispose()" newStackTraceSignature="TMPro.Examples.$e:$PC()" />
+      <method signature="object TMPro.Examples.TeleType/&lt;Start&gt;d__4::System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current([Assembly-CSharp]TMPro.Examples.TeleType/&lt;Start&gt;d__4)" newName="$qC" oldStackTraceSignature="TMPro.Examples.&lt;Start&gt;d__4:System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current()" newStackTraceSignature="TMPro.Examples.$e:$qC()" />
+      <method signature="void TMPro.Examples.TeleType/&lt;Start&gt;d__4::System.Collections.IEnumerator.Reset([Assembly-CSharp]TMPro.Examples.TeleType/&lt;Start&gt;d__4)" newName="$QC" oldStackTraceSignature="TMPro.Examples.&lt;Start&gt;d__4:System.Collections.IEnumerator.Reset()" newStackTraceSignature="TMPro.Examples.$e:$QC()" />
+      <method signature="object TMPro.Examples.TeleType/&lt;Start&gt;d__4::System.Collections.IEnumerator.get_Current([Assembly-CSharp]TMPro.Examples.TeleType/&lt;Start&gt;d__4)" newName="$rC" oldStackTraceSignature="TMPro.Examples.&lt;Start&gt;d__4:System.Collections.IEnumerator.get_Current()" newStackTraceSignature="TMPro.Examples.$e:$rC()" />
+    </type>
+    <type fullName="TMPro.Examples.TextConsoleSimulator" newFullName="" status="NotRenamed">
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_Text m_TextComponent" newName="$OA" />
+      <field signature="bool hasTextChanged" newName="$pA" />
+      <method signature="void TMPro.Examples.TextConsoleSimulator::ON_TEXT_CHANGED([Assembly-CSharp]TMPro.Examples.TextConsoleSimulator, [UnityEngine.CoreModule]UnityEngine.Object)" newName="$L" oldStackTraceSignature="TMPro.Examples.TextConsoleSimulator:ON_TEXT_CHANGED(Object)" newStackTraceSignature="TMPro.Examples.TextConsoleSimulator:$L(Object)" />
+      <method signature="System.Collections.IEnumerator TMPro.Examples.TextConsoleSimulator::RevealCharacters([Assembly-CSharp]TMPro.Examples.TextConsoleSimulator, [Unity.TextMeshPro]TMPro.TMP_Text)" newName="$m" oldStackTraceSignature="TMPro.Examples.TextConsoleSimulator:RevealCharacters(TMP_Text)" newStackTraceSignature="TMPro.Examples.TextConsoleSimulator:$m(TMP_Text)" />
+      <method signature="System.Collections.IEnumerator TMPro.Examples.TextConsoleSimulator::RevealWords([Assembly-CSharp]TMPro.Examples.TextConsoleSimulator, [Unity.TextMeshPro]TMPro.TMP_Text)" newName="$M" oldStackTraceSignature="TMPro.Examples.TextConsoleSimulator:RevealWords(TMP_Text)" newStackTraceSignature="TMPro.Examples.TextConsoleSimulator:$M(TMP_Text)" />
+    </type>
+    <type fullName="TMPro.Examples.TextConsoleSimulator/&lt;RevealCharacters&gt;d__7" newFullName="TMPro.Examples.TextConsoleSimulator/$E" status="Renamed">
+      <field signature="int &lt;&gt;1__state" newName="$PA" />
+      <field signature="object &lt;&gt;2__current" newName="$qA" />
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_Text textComponent" newName="$QA" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.TextConsoleSimulator &lt;&gt;4__this" newName="$rA" />
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_TextInfo &lt;textInfo&gt;5__2" newName="$RA" />
+      <field signature="int &lt;totalVisibleCharacters&gt;5__3" newName="$sA" />
+      <field signature="int &lt;visibleCount&gt;5__4" newName="$SA" />
+      <property signature="object System.Collections.Generic.IEnumerator&lt;System.Object&gt;.Current" newName="$a" />
+      <property signature="object System.Collections.IEnumerator.Current" newName="$A" />
+      <method signature="void TMPro.Examples.TextConsoleSimulator/&lt;RevealCharacters&gt;d__7::System.IDisposable.Dispose([Assembly-CSharp]TMPro.Examples.TextConsoleSimulator/&lt;RevealCharacters&gt;d__7)" newName="$RC" oldStackTraceSignature="TMPro.Examples.&lt;RevealCharacters&gt;d__7:System.IDisposable.Dispose()" newStackTraceSignature="TMPro.Examples.$E:$RC()" />
+      <method signature="object TMPro.Examples.TextConsoleSimulator/&lt;RevealCharacters&gt;d__7::System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current([Assembly-CSharp]TMPro.Examples.TextConsoleSimulator/&lt;RevealCharacters&gt;d__7)" newName="$sC" oldStackTraceSignature="TMPro.Examples.&lt;RevealCharacters&gt;d__7:System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current()" newStackTraceSignature="TMPro.Examples.$E:$sC()" />
+      <method signature="void TMPro.Examples.TextConsoleSimulator/&lt;RevealCharacters&gt;d__7::System.Collections.IEnumerator.Reset([Assembly-CSharp]TMPro.Examples.TextConsoleSimulator/&lt;RevealCharacters&gt;d__7)" newName="$SC" oldStackTraceSignature="TMPro.Examples.&lt;RevealCharacters&gt;d__7:System.Collections.IEnumerator.Reset()" newStackTraceSignature="TMPro.Examples.$E:$SC()" />
+      <method signature="object TMPro.Examples.TextConsoleSimulator/&lt;RevealCharacters&gt;d__7::System.Collections.IEnumerator.get_Current([Assembly-CSharp]TMPro.Examples.TextConsoleSimulator/&lt;RevealCharacters&gt;d__7)" newName="$tC" oldStackTraceSignature="TMPro.Examples.&lt;RevealCharacters&gt;d__7:System.Collections.IEnumerator.get_Current()" newStackTraceSignature="TMPro.Examples.$E:$tC()" />
+    </type>
+    <type fullName="TMPro.Examples.TextConsoleSimulator/&lt;RevealWords&gt;d__8" newFullName="TMPro.Examples.TextConsoleSimulator/$f" status="Renamed">
+      <field signature="int &lt;&gt;1__state" newName="$tA" />
+      <field signature="object &lt;&gt;2__current" newName="$TA" />
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_Text textComponent" newName="$uA" />
+      <field signature="int &lt;totalWordCount&gt;5__2" newName="$UA" />
+      <field signature="int &lt;totalVisibleCharacters&gt;5__3" newName="$vA" />
+      <field signature="int &lt;counter&gt;5__4" newName="$VA" />
+      <field signature="int &lt;visibleCount&gt;5__5" newName="$wA" />
+      <property signature="object System.Collections.Generic.IEnumerator&lt;System.Object&gt;.Current" newName="$a" />
+      <property signature="object System.Collections.IEnumerator.Current" newName="$A" />
+      <method signature="void TMPro.Examples.TextConsoleSimulator/&lt;RevealWords&gt;d__8::System.IDisposable.Dispose([Assembly-CSharp]TMPro.Examples.TextConsoleSimulator/&lt;RevealWords&gt;d__8)" newName="$TC" oldStackTraceSignature="TMPro.Examples.&lt;RevealWords&gt;d__8:System.IDisposable.Dispose()" newStackTraceSignature="TMPro.Examples.$f:$TC()" />
+      <method signature="object TMPro.Examples.TextConsoleSimulator/&lt;RevealWords&gt;d__8::System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current([Assembly-CSharp]TMPro.Examples.TextConsoleSimulator/&lt;RevealWords&gt;d__8)" newName="$uC" oldStackTraceSignature="TMPro.Examples.&lt;RevealWords&gt;d__8:System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current()" newStackTraceSignature="TMPro.Examples.$f:$uC()" />
+      <method signature="void TMPro.Examples.TextConsoleSimulator/&lt;RevealWords&gt;d__8::System.Collections.IEnumerator.Reset([Assembly-CSharp]TMPro.Examples.TextConsoleSimulator/&lt;RevealWords&gt;d__8)" newName="$UC" oldStackTraceSignature="TMPro.Examples.&lt;RevealWords&gt;d__8:System.Collections.IEnumerator.Reset()" newStackTraceSignature="TMPro.Examples.$f:$UC()" />
+      <method signature="object TMPro.Examples.TextConsoleSimulator/&lt;RevealWords&gt;d__8::System.Collections.IEnumerator.get_Current([Assembly-CSharp]TMPro.Examples.TextConsoleSimulator/&lt;RevealWords&gt;d__8)" newName="$vC" oldStackTraceSignature="TMPro.Examples.&lt;RevealWords&gt;d__8:System.Collections.IEnumerator.get_Current()" newStackTraceSignature="TMPro.Examples.$f:$vC()" />
+    </type>
+    <type fullName="TMPro.Examples.TextMeshProFloatingText" newFullName="" status="NotRenamed">
+      <field signature="[UnityEngine.CoreModule]UnityEngine.GameObject m_floatingText" newName="$WA" />
+      <field signature="[Unity.TextMeshPro]TMPro.TextMeshPro m_textMeshPro" newName="$xA" />
+      <field signature="[UnityEngine.TextRenderingModule]UnityEngine.TextMesh m_textMesh" newName="$XA" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Transform m_transform" newName="$yA" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Transform m_floatingText_Transform" newName="$YA" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Transform m_cameraTransform" newName="$zA" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Vector3 lastPOS" newName="$ZA" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Quaternion lastRotation" newName="$ab" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.WaitForEndOfFrame k_WaitForEndOfFrame" newName="$Ab" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.WaitForSeconds[] k_WaitForSecondsRandom" newName="$bb" />
+      <method signature="System.Collections.IEnumerator TMPro.Examples.TextMeshProFloatingText::DisplayTextMeshProFloatingText([Assembly-CSharp]TMPro.Examples.TextMeshProFloatingText)" newName="$n" oldStackTraceSignature="TMPro.Examples.TextMeshProFloatingText:DisplayTextMeshProFloatingText()" newStackTraceSignature="TMPro.Examples.TextMeshProFloatingText:$n()" />
+      <method signature="System.Collections.IEnumerator TMPro.Examples.TextMeshProFloatingText::DisplayTextMeshFloatingText([Assembly-CSharp]TMPro.Examples.TextMeshProFloatingText)" newName="$N" oldStackTraceSignature="TMPro.Examples.TextMeshProFloatingText:DisplayTextMeshFloatingText()" newStackTraceSignature="TMPro.Examples.TextMeshProFloatingText:$N()" />
+    </type>
+    <type fullName="TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshFloatingText&gt;d__16" newFullName="TMPro.Examples.TextMeshProFloatingText/$F" status="Renamed">
+      <field signature="int &lt;&gt;1__state" newName="$Bb" />
+      <field signature="object &lt;&gt;2__current" newName="$cb" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.TextMeshProFloatingText &lt;&gt;4__this" newName="$Cb" />
+      <field signature="float &lt;CountDuration&gt;5__2" newName="$db" />
+      <field signature="float &lt;starting_Count&gt;5__3" newName="$Db" />
+      <field signature="float &lt;current_Count&gt;5__4" newName="$eb" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Vector3 &lt;start_pos&gt;5__5" newName="$Eb" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Color32 &lt;start_color&gt;5__6" newName="$fb" />
+      <field signature="float &lt;alpha&gt;5__7" newName="$Fb" />
+      <field signature="float &lt;fadeDuration&gt;5__8" newName="$gb" />
+      <property signature="object System.Collections.Generic.IEnumerator&lt;System.Object&gt;.Current" newName="$a" />
+      <property signature="object System.Collections.IEnumerator.Current" newName="$A" />
+      <method signature="void TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshFloatingText&gt;d__16::System.IDisposable.Dispose([Assembly-CSharp]TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshFloatingText&gt;d__16)" newName="$VC" oldStackTraceSignature="TMPro.Examples.&lt;DisplayTextMeshFloatingText&gt;d__16:System.IDisposable.Dispose()" newStackTraceSignature="TMPro.Examples.$F:$VC()" />
+      <method signature="object TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshFloatingText&gt;d__16::System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current([Assembly-CSharp]TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshFloatingText&gt;d__16)" newName="$wC" oldStackTraceSignature="TMPro.Examples.&lt;DisplayTextMeshFloatingText&gt;d__16:System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current()" newStackTraceSignature="TMPro.Examples.$F:$wC()" />
+      <method signature="void TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshFloatingText&gt;d__16::System.Collections.IEnumerator.Reset([Assembly-CSharp]TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshFloatingText&gt;d__16)" newName="$WC" oldStackTraceSignature="TMPro.Examples.&lt;DisplayTextMeshFloatingText&gt;d__16:System.Collections.IEnumerator.Reset()" newStackTraceSignature="TMPro.Examples.$F:$WC()" />
+      <method signature="object TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshFloatingText&gt;d__16::System.Collections.IEnumerator.get_Current([Assembly-CSharp]TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshFloatingText&gt;d__16)" newName="$xC" oldStackTraceSignature="TMPro.Examples.&lt;DisplayTextMeshFloatingText&gt;d__16:System.Collections.IEnumerator.get_Current()" newStackTraceSignature="TMPro.Examples.$F:$xC()" />
+    </type>
+    <type fullName="TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshProFloatingText&gt;d__15" newFullName="TMPro.Examples.TextMeshProFloatingText/$g" status="Renamed">
+      <field signature="int &lt;&gt;1__state" newName="$Gb" />
+      <field signature="object &lt;&gt;2__current" newName="$hb" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.TextMeshProFloatingText &lt;&gt;4__this" newName="$Hb" />
+      <field signature="float &lt;CountDuration&gt;5__2" newName="$ib" />
+      <field signature="float &lt;starting_Count&gt;5__3" newName="$Ib" />
+      <field signature="float &lt;current_Count&gt;5__4" newName="$jb" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Vector3 &lt;start_pos&gt;5__5" newName="$Jb" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Color32 &lt;start_color&gt;5__6" newName="$kb" />
+      <field signature="float &lt;alpha&gt;5__7" newName="$Kb" />
+      <field signature="float &lt;fadeDuration&gt;5__8" newName="$lb" />
+      <property signature="object System.Collections.Generic.IEnumerator&lt;System.Object&gt;.Current" newName="$a" />
+      <property signature="object System.Collections.IEnumerator.Current" newName="$A" />
+      <method signature="void TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshProFloatingText&gt;d__15::System.IDisposable.Dispose([Assembly-CSharp]TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshProFloatingText&gt;d__15)" newName="$XC" oldStackTraceSignature="TMPro.Examples.&lt;DisplayTextMeshProFloatingText&gt;d__15:System.IDisposable.Dispose()" newStackTraceSignature="TMPro.Examples.$g:$XC()" />
+      <method signature="object TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshProFloatingText&gt;d__15::System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current([Assembly-CSharp]TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshProFloatingText&gt;d__15)" newName="$yC" oldStackTraceSignature="TMPro.Examples.&lt;DisplayTextMeshProFloatingText&gt;d__15:System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current()" newStackTraceSignature="TMPro.Examples.$g:$yC()" />
+      <method signature="void TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshProFloatingText&gt;d__15::System.Collections.IEnumerator.Reset([Assembly-CSharp]TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshProFloatingText&gt;d__15)" newName="$YC" oldStackTraceSignature="TMPro.Examples.&lt;DisplayTextMeshProFloatingText&gt;d__15:System.Collections.IEnumerator.Reset()" newStackTraceSignature="TMPro.Examples.$g:$YC()" />
+      <method signature="object TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshProFloatingText&gt;d__15::System.Collections.IEnumerator.get_Current([Assembly-CSharp]TMPro.Examples.TextMeshProFloatingText/&lt;DisplayTextMeshProFloatingText&gt;d__15)" newName="$zC" oldStackTraceSignature="TMPro.Examples.&lt;DisplayTextMeshProFloatingText&gt;d__15:System.Collections.IEnumerator.get_Current()" newStackTraceSignature="TMPro.Examples.$g:$zC()" />
+    </type>
+    <type fullName="TMPro.Examples.TextMeshSpawner" newFullName="" status="NotRenamed">
+      <field signature="[Assembly-CSharp]TMPro.Examples.TextMeshProFloatingText floatingText_Script" newName="$Lb" />
+    </type>
+    <type fullName="TMPro.Examples.TMP_ExampleScript_01" newFullName="" status="NotRenamed">
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_Text m_text" newName="$qb" />
+      <field signature="int count" newName="$Qb" />
+    </type>
+    <type fullName="TMPro.Examples.TMP_ExampleScript_01/objectType" newFullName="TMPro.Examples.TMP_ExampleScript_01/$h" status="Renamed">
+      <field signature="[Assembly-CSharp]TMPro.Examples.TMP_ExampleScript_01/objectType TextMeshPro" newName="$rb" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.TMP_ExampleScript_01/objectType TextMeshProUGUI" newName="$Rb" />
+    </type>
+    <type fullName="TMPro.Examples.TMP_FrameRateCounter" newFullName="" status="NotRenamed">
+      <field signature="float m_LastInterval" newName="$sb" />
+      <field signature="int m_Frames" newName="$Sb" />
+      <field signature="string htmlColorTag" newName="$tb" />
+      <field signature="[Unity.TextMeshPro]TMPro.TextMeshPro m_TextMeshPro" newName="$Tb" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Transform m_frameCounter_transform" newName="$ub" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Camera m_camera" newName="$Ub" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.TMP_FrameRateCounter/FpsCounterAnchorPositions last_AnchorPosition" newName="$vb" />
+      <method signature="void TMPro.Examples.TMP_FrameRateCounter::Set_FrameCounter_Position([Assembly-CSharp]TMPro.Examples.TMP_FrameRateCounter, [Assembly-CSharp]TMPro.Examples.TMP_FrameRateCounter/FpsCounterAnchorPositions)" newName="$O" oldStackTraceSignature="TMPro.Examples.TMP_FrameRateCounter:Set_FrameCounter_Position(FpsCounterAnchorPositions)" newStackTraceSignature="TMPro.Examples.TMP_FrameRateCounter:$O($H)" />
+    </type>
+    <type fullName="TMPro.Examples.TMP_FrameRateCounter/FpsCounterAnchorPositions" newFullName="TMPro.Examples.TMP_FrameRateCounter/$H" status="Renamed">
+      <field signature="[Assembly-CSharp]TMPro.Examples.TMP_FrameRateCounter/FpsCounterAnchorPositions TopLeft" newName="$Vb" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.TMP_FrameRateCounter/FpsCounterAnchorPositions BottomLeft" newName="$wb" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.TMP_FrameRateCounter/FpsCounterAnchorPositions TopRight" newName="$Wb" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.TMP_FrameRateCounter/FpsCounterAnchorPositions BottomRight" newName="$xb" />
+    </type>
+    <type fullName="TMPro.Examples.TMP_TextEventCheck" newFullName="" status="NotRenamed">
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_Text m_TextComponent" newName="$Xb" />
+      <method signature="void TMPro.Examples.TMP_TextEventCheck::OnCharacterSelection([Assembly-CSharp]TMPro.Examples.TMP_TextEventCheck, char, int)" newName="$p" oldStackTraceSignature="TMPro.Examples.TMP_TextEventCheck:OnCharacterSelection(Char, Int32)" newStackTraceSignature="TMPro.Examples.TMP_TextEventCheck:$p(Char, Int32)" />
+      <method signature="void TMPro.Examples.TMP_TextEventCheck::OnSpriteSelection([Assembly-CSharp]TMPro.Examples.TMP_TextEventCheck, char, int)" newName="$P" oldStackTraceSignature="TMPro.Examples.TMP_TextEventCheck:OnSpriteSelection(Char, Int32)" newStackTraceSignature="TMPro.Examples.TMP_TextEventCheck:$P(Char, Int32)" />
+      <method signature="void TMPro.Examples.TMP_TextEventCheck::OnWordSelection([Assembly-CSharp]TMPro.Examples.TMP_TextEventCheck, string, int, int)" newName="$q" oldStackTraceSignature="TMPro.Examples.TMP_TextEventCheck:OnWordSelection(String, Int32, Int32)" newStackTraceSignature="TMPro.Examples.TMP_TextEventCheck:$q(String, Int32, Int32)" />
+      <method signature="void TMPro.Examples.TMP_TextEventCheck::OnLineSelection([Assembly-CSharp]TMPro.Examples.TMP_TextEventCheck, string, int, int)" newName="$Q" oldStackTraceSignature="TMPro.Examples.TMP_TextEventCheck:OnLineSelection(String, Int32, Int32)" newStackTraceSignature="TMPro.Examples.TMP_TextEventCheck:$Q(String, Int32, Int32)" />
+      <method signature="void TMPro.Examples.TMP_TextEventCheck::OnLinkSelection([Assembly-CSharp]TMPro.Examples.TMP_TextEventCheck, string, string, int)" newName="$r" oldStackTraceSignature="TMPro.Examples.TMP_TextEventCheck:OnLinkSelection(String, String, Int32)" newStackTraceSignature="TMPro.Examples.TMP_TextEventCheck:$r(String, String, Int32)" />
+    </type>
+    <type fullName="TMPro.Examples.TMP_TextSelector_A" newFullName="" status="NotRenamed">
+      <field signature="[Unity.TextMeshPro]TMPro.TextMeshPro m_TextMeshPro" newName="$yb" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Camera m_Camera" newName="$Yb" />
+      <field signature="bool m_isHoveringObject" newName="$zb" />
+      <field signature="int m_selectedLink" newName="$Zb" />
+      <field signature="int m_lastCharIndex" newName="$aB" />
+      <field signature="int m_lastWordIndex" newName="$AB" />
+    </type>
+    <type fullName="TMPro.Examples.TMP_TextSelector_B" newFullName="" status="NotRenamed">
+      <field signature="[UnityEngine.CoreModule]UnityEngine.RectTransform m_TextPopup_RectTransform" newName="$bB" />
+      <field signature="[Unity.TextMeshPro]TMPro.TextMeshProUGUI m_TextPopup_TMPComponent" newName="$BB" />
+      <field signature="[Unity.TextMeshPro]TMPro.TextMeshProUGUI m_TextMeshPro" newName="$cB" />
+      <field signature="[UnityEngine.UIModule]UnityEngine.Canvas m_Canvas" newName="$CB" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Camera m_Camera" newName="$dB" />
+      <field signature="bool isHoveringObject" newName="$DB" />
+      <field signature="int m_selectedWord" newName="$eB" />
+      <field signature="int m_selectedLink" newName="$EB" />
+      <field signature="int m_lastIndex" newName="$fB" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Matrix4x4 m_matrix" newName="$FB" />
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_MeshInfo[] m_cachedMeshInfoVertexData" newName="$gB" />
+      <method signature="void TMPro.Examples.TMP_TextSelector_B::ON_TEXT_CHANGED([Assembly-CSharp]TMPro.Examples.TMP_TextSelector_B, [UnityEngine.CoreModule]UnityEngine.Object)" newName="$R" oldStackTraceSignature="TMPro.Examples.TMP_TextSelector_B:ON_TEXT_CHANGED(Object)" newStackTraceSignature="TMPro.Examples.TMP_TextSelector_B:$R(Object)" />
+      <method signature="void TMPro.Examples.TMP_TextSelector_B::RestoreCachedVertexAttributes([Assembly-CSharp]TMPro.Examples.TMP_TextSelector_B, int)" newName="$s" oldStackTraceSignature="TMPro.Examples.TMP_TextSelector_B:RestoreCachedVertexAttributes(Int32)" newStackTraceSignature="TMPro.Examples.TMP_TextSelector_B:$s(Int32)" />
+    </type>
+    <type fullName="TMPro.Examples.TMP_UiFrameRateCounter" newFullName="" status="NotRenamed">
+      <field signature="float m_LastInterval" newName="$GB" />
+      <field signature="int m_Frames" newName="$hB" />
+      <field signature="string htmlColorTag" newName="$HB" />
+      <field signature="[Unity.TextMeshPro]TMPro.TextMeshProUGUI m_TextMeshPro" newName="$iB" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.RectTransform m_frameCounter_transform" newName="$IB" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.TMP_UiFrameRateCounter/FpsCounterAnchorPositions last_AnchorPosition" newName="$jB" />
+      <method signature="void TMPro.Examples.TMP_UiFrameRateCounter::Set_FrameCounter_Position([Assembly-CSharp]TMPro.Examples.TMP_UiFrameRateCounter, [Assembly-CSharp]TMPro.Examples.TMP_UiFrameRateCounter/FpsCounterAnchorPositions)" newName="$S" oldStackTraceSignature="TMPro.Examples.TMP_UiFrameRateCounter:Set_FrameCounter_Position(FpsCounterAnchorPositions)" newStackTraceSignature="TMPro.Examples.TMP_UiFrameRateCounter:$S($i)" />
+    </type>
+    <type fullName="TMPro.Examples.TMP_UiFrameRateCounter/FpsCounterAnchorPositions" newFullName="TMPro.Examples.TMP_UiFrameRateCounter/$i" status="Renamed">
+      <field signature="[Assembly-CSharp]TMPro.Examples.TMP_UiFrameRateCounter/FpsCounterAnchorPositions TopLeft" newName="$JB" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.TMP_UiFrameRateCounter/FpsCounterAnchorPositions BottomLeft" newName="$kB" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.TMP_UiFrameRateCounter/FpsCounterAnchorPositions TopRight" newName="$KB" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.TMP_UiFrameRateCounter/FpsCounterAnchorPositions BottomRight" newName="$lB" />
+    </type>
+    <type fullName="TMPro.Examples.TMPro_InstructionOverlay" newFullName="" status="NotRenamed">
+      <field signature="[Unity.TextMeshPro]TMPro.TextMeshPro m_TextMeshPro" newName="$mb" />
+      <field signature="[Unity.TextMeshPro]TMPro.TextContainer m_textContainer" newName="$Mb" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Transform m_frameCounter_transform" newName="$nb" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Camera m_camera" newName="$Nb" />
+      <method signature="void TMPro.Examples.TMPro_InstructionOverlay::Set_FrameCounter_Position([Assembly-CSharp]TMPro.Examples.TMPro_InstructionOverlay, [Assembly-CSharp]TMPro.Examples.TMPro_InstructionOverlay/FpsCounterAnchorPositions)" newName="$o" oldStackTraceSignature="TMPro.Examples.TMPro_InstructionOverlay:Set_FrameCounter_Position(FpsCounterAnchorPositions)" newStackTraceSignature="TMPro.Examples.TMPro_InstructionOverlay:$o($G)" />
+    </type>
+    <type fullName="TMPro.Examples.TMPro_InstructionOverlay/FpsCounterAnchorPositions" newFullName="TMPro.Examples.TMPro_InstructionOverlay/$G" status="Renamed">
+      <field signature="[Assembly-CSharp]TMPro.Examples.TMPro_InstructionOverlay/FpsCounterAnchorPositions TopLeft" newName="$ob" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.TMPro_InstructionOverlay/FpsCounterAnchorPositions BottomLeft" newName="$Ob" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.TMPro_InstructionOverlay/FpsCounterAnchorPositions TopRight" newName="$pb" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.TMPro_InstructionOverlay/FpsCounterAnchorPositions BottomRight" newName="$Pb" />
+    </type>
+    <type fullName="TMPro.Examples.VertexColorCycler" newFullName="" status="NotRenamed">
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_Text m_TextComponent" newName="$LB" />
+      <method signature="System.Collections.IEnumerator TMPro.Examples.VertexColorCycler::AnimateVertexColors([Assembly-CSharp]TMPro.Examples.VertexColorCycler)" newName="$t" oldStackTraceSignature="TMPro.Examples.VertexColorCycler:AnimateVertexColors()" newStackTraceSignature="TMPro.Examples.VertexColorCycler:$t()" />
+    </type>
+    <type fullName="TMPro.Examples.VertexColorCycler/&lt;AnimateVertexColors&gt;d__3" newFullName="TMPro.Examples.VertexColorCycler/$I" status="Renamed">
+      <field signature="int &lt;&gt;1__state" newName="$mB" />
+      <field signature="object &lt;&gt;2__current" newName="$MB" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.VertexColorCycler &lt;&gt;4__this" newName="$nB" />
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_TextInfo &lt;textInfo&gt;5__2" newName="$NB" />
+      <field signature="int &lt;currentCharacter&gt;5__3" newName="$oB" />
+      <property signature="object System.Collections.Generic.IEnumerator&lt;System.Object&gt;.Current" newName="$a" />
+      <property signature="object System.Collections.IEnumerator.Current" newName="$A" />
+      <method signature="void TMPro.Examples.VertexColorCycler/&lt;AnimateVertexColors&gt;d__3::System.IDisposable.Dispose([Assembly-CSharp]TMPro.Examples.VertexColorCycler/&lt;AnimateVertexColors&gt;d__3)" newName="$ZC" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__3:System.IDisposable.Dispose()" newStackTraceSignature="TMPro.Examples.$I:$ZC()" />
+      <method signature="object TMPro.Examples.VertexColorCycler/&lt;AnimateVertexColors&gt;d__3::System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current([Assembly-CSharp]TMPro.Examples.VertexColorCycler/&lt;AnimateVertexColors&gt;d__3)" newName="$ad" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__3:System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current()" newStackTraceSignature="TMPro.Examples.$I:$ad()" />
+      <method signature="void TMPro.Examples.VertexColorCycler/&lt;AnimateVertexColors&gt;d__3::System.Collections.IEnumerator.Reset([Assembly-CSharp]TMPro.Examples.VertexColorCycler/&lt;AnimateVertexColors&gt;d__3)" newName="$Ad" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__3:System.Collections.IEnumerator.Reset()" newStackTraceSignature="TMPro.Examples.$I:$Ad()" />
+      <method signature="object TMPro.Examples.VertexColorCycler/&lt;AnimateVertexColors&gt;d__3::System.Collections.IEnumerator.get_Current([Assembly-CSharp]TMPro.Examples.VertexColorCycler/&lt;AnimateVertexColors&gt;d__3)" newName="$bd" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__3:System.Collections.IEnumerator.get_Current()" newStackTraceSignature="TMPro.Examples.$I:$bd()" />
+    </type>
+    <type fullName="TMPro.Examples.VertexJitter" newFullName="" status="NotRenamed">
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_Text m_TextComponent" newName="$OB" />
+      <field signature="bool hasTextChanged" newName="$pB" />
+      <method signature="void TMPro.Examples.VertexJitter::ON_TEXT_CHANGED([Assembly-CSharp]TMPro.Examples.VertexJitter, [UnityEngine.CoreModule]UnityEngine.Object)" newName="$T" oldStackTraceSignature="TMPro.Examples.VertexJitter:ON_TEXT_CHANGED(Object)" newStackTraceSignature="TMPro.Examples.VertexJitter:$T(Object)" />
+      <method signature="System.Collections.IEnumerator TMPro.Examples.VertexJitter::AnimateVertexColors([Assembly-CSharp]TMPro.Examples.VertexJitter)" newName="$u" oldStackTraceSignature="TMPro.Examples.VertexJitter:AnimateVertexColors()" newStackTraceSignature="TMPro.Examples.VertexJitter:$u()" />
+    </type>
+    <type fullName="TMPro.Examples.VertexJitter/&lt;AnimateVertexColors&gt;d__11" newFullName="TMPro.Examples.VertexJitter/$J" status="Renamed">
+      <field signature="int &lt;&gt;1__state" newName="$rB" />
+      <field signature="object &lt;&gt;2__current" newName="$RB" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.VertexJitter &lt;&gt;4__this" newName="$sB" />
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_TextInfo &lt;textInfo&gt;5__2" newName="$SB" />
+      <field signature="int &lt;loopCount&gt;5__3" newName="$tB" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.VertexJitter/VertexAnim[] &lt;vertexAnim&gt;5__4" newName="$TB" />
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_MeshInfo[] &lt;cachedMeshInfo&gt;5__5" newName="$uB" />
+      <property signature="object System.Collections.Generic.IEnumerator&lt;System.Object&gt;.Current" newName="$a" />
+      <property signature="object System.Collections.IEnumerator.Current" newName="$A" />
+      <method signature="void TMPro.Examples.VertexJitter/&lt;AnimateVertexColors&gt;d__11::System.IDisposable.Dispose([Assembly-CSharp]TMPro.Examples.VertexJitter/&lt;AnimateVertexColors&gt;d__11)" newName="$Bd" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__11:System.IDisposable.Dispose()" newStackTraceSignature="TMPro.Examples.$J:$Bd()" />
+      <method signature="object TMPro.Examples.VertexJitter/&lt;AnimateVertexColors&gt;d__11::System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current([Assembly-CSharp]TMPro.Examples.VertexJitter/&lt;AnimateVertexColors&gt;d__11)" newName="$cd" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__11:System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current()" newStackTraceSignature="TMPro.Examples.$J:$cd()" />
+      <method signature="void TMPro.Examples.VertexJitter/&lt;AnimateVertexColors&gt;d__11::System.Collections.IEnumerator.Reset([Assembly-CSharp]TMPro.Examples.VertexJitter/&lt;AnimateVertexColors&gt;d__11)" newName="$Cd" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__11:System.Collections.IEnumerator.Reset()" newStackTraceSignature="TMPro.Examples.$J:$Cd()" />
+      <method signature="object TMPro.Examples.VertexJitter/&lt;AnimateVertexColors&gt;d__11::System.Collections.IEnumerator.get_Current([Assembly-CSharp]TMPro.Examples.VertexJitter/&lt;AnimateVertexColors&gt;d__11)" newName="$dd" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__11:System.Collections.IEnumerator.get_Current()" newStackTraceSignature="TMPro.Examples.$J:$dd()" />
+    </type>
+    <type fullName="TMPro.Examples.VertexJitter/VertexAnim" newFullName="TMPro.Examples.VertexJitter/$j" status="Renamed">
+      <field signature="float angleRange" newName="$PB" />
+      <field signature="float angle" newName="$qB" />
+      <field signature="float speed" newName="$QB" />
+    </type>
+    <type fullName="TMPro.Examples.VertexShakeA" newFullName="" status="NotRenamed">
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_Text m_TextComponent" newName="$UB" />
+      <field signature="bool hasTextChanged" newName="$vB" />
+      <method signature="void TMPro.Examples.VertexShakeA::ON_TEXT_CHANGED([Assembly-CSharp]TMPro.Examples.VertexShakeA, [UnityEngine.CoreModule]UnityEngine.Object)" newName="$U" oldStackTraceSignature="TMPro.Examples.VertexShakeA:ON_TEXT_CHANGED(Object)" newStackTraceSignature="TMPro.Examples.VertexShakeA:$U(Object)" />
+      <method signature="System.Collections.IEnumerator TMPro.Examples.VertexShakeA::AnimateVertexColors([Assembly-CSharp]TMPro.Examples.VertexShakeA)" newName="$v" oldStackTraceSignature="TMPro.Examples.VertexShakeA:AnimateVertexColors()" newStackTraceSignature="TMPro.Examples.VertexShakeA:$v()" />
+    </type>
+    <type fullName="TMPro.Examples.VertexShakeA/&lt;AnimateVertexColors&gt;d__11" newFullName="TMPro.Examples.VertexShakeA/$k" status="Renamed">
+      <field signature="int &lt;&gt;1__state" newName="$VB" />
+      <field signature="object &lt;&gt;2__current" newName="$wB" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.VertexShakeA &lt;&gt;4__this" newName="$WB" />
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_TextInfo &lt;textInfo&gt;5__2" newName="$xB" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Vector3[][] &lt;copyOfVertices&gt;5__3" newName="$XB" />
+      <property signature="object System.Collections.Generic.IEnumerator&lt;System.Object&gt;.Current" newName="$a" />
+      <property signature="object System.Collections.IEnumerator.Current" newName="$A" />
+      <method signature="void TMPro.Examples.VertexShakeA/&lt;AnimateVertexColors&gt;d__11::System.IDisposable.Dispose([Assembly-CSharp]TMPro.Examples.VertexShakeA/&lt;AnimateVertexColors&gt;d__11)" newName="$Dd" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__11:System.IDisposable.Dispose()" newStackTraceSignature="TMPro.Examples.$k:$Dd()" />
+      <method signature="object TMPro.Examples.VertexShakeA/&lt;AnimateVertexColors&gt;d__11::System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current([Assembly-CSharp]TMPro.Examples.VertexShakeA/&lt;AnimateVertexColors&gt;d__11)" newName="$ed" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__11:System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current()" newStackTraceSignature="TMPro.Examples.$k:$ed()" />
+      <method signature="void TMPro.Examples.VertexShakeA/&lt;AnimateVertexColors&gt;d__11::System.Collections.IEnumerator.Reset([Assembly-CSharp]TMPro.Examples.VertexShakeA/&lt;AnimateVertexColors&gt;d__11)" newName="$Ed" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__11:System.Collections.IEnumerator.Reset()" newStackTraceSignature="TMPro.Examples.$k:$Ed()" />
+      <method signature="object TMPro.Examples.VertexShakeA/&lt;AnimateVertexColors&gt;d__11::System.Collections.IEnumerator.get_Current([Assembly-CSharp]TMPro.Examples.VertexShakeA/&lt;AnimateVertexColors&gt;d__11)" newName="$fd" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__11:System.Collections.IEnumerator.get_Current()" newStackTraceSignature="TMPro.Examples.$k:$fd()" />
+    </type>
+    <type fullName="TMPro.Examples.VertexShakeB" newFullName="" status="NotRenamed">
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_Text m_TextComponent" newName="$yB" />
+      <field signature="bool hasTextChanged" newName="$YB" />
+      <method signature="void TMPro.Examples.VertexShakeB::ON_TEXT_CHANGED([Assembly-CSharp]TMPro.Examples.VertexShakeB, [UnityEngine.CoreModule]UnityEngine.Object)" newName="$V" oldStackTraceSignature="TMPro.Examples.VertexShakeB:ON_TEXT_CHANGED(Object)" newStackTraceSignature="TMPro.Examples.VertexShakeB:$V(Object)" />
+      <method signature="System.Collections.IEnumerator TMPro.Examples.VertexShakeB::AnimateVertexColors([Assembly-CSharp]TMPro.Examples.VertexShakeB)" newName="$w" oldStackTraceSignature="TMPro.Examples.VertexShakeB:AnimateVertexColors()" newStackTraceSignature="TMPro.Examples.VertexShakeB:$w()" />
+    </type>
+    <type fullName="TMPro.Examples.VertexShakeB/&lt;AnimateVertexColors&gt;d__10" newFullName="TMPro.Examples.VertexShakeB/$K" status="Renamed">
+      <field signature="int &lt;&gt;1__state" newName="$zB" />
+      <field signature="object &lt;&gt;2__current" newName="$ZB" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.VertexShakeB &lt;&gt;4__this" newName="$ac" />
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_TextInfo &lt;textInfo&gt;5__2" newName="$Ac" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Vector3[][] &lt;copyOfVertices&gt;5__3" newName="$bc" />
+      <property signature="object System.Collections.Generic.IEnumerator&lt;System.Object&gt;.Current" newName="$a" />
+      <property signature="object System.Collections.IEnumerator.Current" newName="$A" />
+      <method signature="void TMPro.Examples.VertexShakeB/&lt;AnimateVertexColors&gt;d__10::System.IDisposable.Dispose([Assembly-CSharp]TMPro.Examples.VertexShakeB/&lt;AnimateVertexColors&gt;d__10)" newName="$Fd" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__10:System.IDisposable.Dispose()" newStackTraceSignature="TMPro.Examples.$K:$Fd()" />
+      <method signature="object TMPro.Examples.VertexShakeB/&lt;AnimateVertexColors&gt;d__10::System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current([Assembly-CSharp]TMPro.Examples.VertexShakeB/&lt;AnimateVertexColors&gt;d__10)" newName="$gd" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__10:System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current()" newStackTraceSignature="TMPro.Examples.$K:$gd()" />
+      <method signature="void TMPro.Examples.VertexShakeB/&lt;AnimateVertexColors&gt;d__10::System.Collections.IEnumerator.Reset([Assembly-CSharp]TMPro.Examples.VertexShakeB/&lt;AnimateVertexColors&gt;d__10)" newName="$Gd" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__10:System.Collections.IEnumerator.Reset()" newStackTraceSignature="TMPro.Examples.$K:$Gd()" />
+      <method signature="object TMPro.Examples.VertexShakeB/&lt;AnimateVertexColors&gt;d__10::System.Collections.IEnumerator.get_Current([Assembly-CSharp]TMPro.Examples.VertexShakeB/&lt;AnimateVertexColors&gt;d__10)" newName="$hd" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__10:System.Collections.IEnumerator.get_Current()" newStackTraceSignature="TMPro.Examples.$K:$hd()" />
+    </type>
+    <type fullName="TMPro.Examples.VertexZoom" newFullName="" status="NotRenamed">
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_Text m_TextComponent" newName="$Bc" />
+      <field signature="bool hasTextChanged" newName="$cc" />
+      <method signature="void TMPro.Examples.VertexZoom::ON_TEXT_CHANGED([Assembly-CSharp]TMPro.Examples.VertexZoom, [UnityEngine.CoreModule]UnityEngine.Object)" newName="$W" oldStackTraceSignature="TMPro.Examples.VertexZoom:ON_TEXT_CHANGED(Object)" newStackTraceSignature="TMPro.Examples.VertexZoom:$W(Object)" />
+      <method signature="System.Collections.IEnumerator TMPro.Examples.VertexZoom::AnimateVertexColors([Assembly-CSharp]TMPro.Examples.VertexZoom)" newName="$x" oldStackTraceSignature="TMPro.Examples.VertexZoom:AnimateVertexColors()" newStackTraceSignature="TMPro.Examples.VertexZoom:$x()" />
+    </type>
+    <type fullName="TMPro.Examples.VertexZoom/&lt;&gt;c__DisplayClass10_0" newFullName="TMPro.Examples.VertexZoom/$l" status="Renamed">
+      <field signature="System.Collections.Generic.List`1&lt;float&gt; modifiedCharScale" newName="$Cc" />
+      <field signature="System.Comparison`1&lt;int&gt; &lt;&gt;9__0" newName="$dc" />
+      <method signature="int TMPro.Examples.VertexZoom/&lt;&gt;c__DisplayClass10_0::&lt;AnimateVertexColors&gt;b__0([Assembly-CSharp]TMPro.Examples.VertexZoom/&lt;&gt;c__DisplayClass10_0, int, int)" newName="$X" oldStackTraceSignature="TMPro.Examples.&lt;&gt;c__DisplayClass10_0:&lt;AnimateVertexColors&gt;b__0(Int32, Int32)" newStackTraceSignature="TMPro.Examples.$l:$X(Int32, Int32)" />
+    </type>
+    <type fullName="TMPro.Examples.VertexZoom/&lt;AnimateVertexColors&gt;d__10" newFullName="TMPro.Examples.VertexZoom/$L" status="Renamed">
+      <field signature="int &lt;&gt;1__state" newName="$Dc" />
+      <field signature="object &lt;&gt;2__current" newName="$ec" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.VertexZoom &lt;&gt;4__this" newName="$Ec" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.VertexZoom/&lt;&gt;c__DisplayClass10_0 &lt;&gt;8__1" newName="$fc" />
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_TextInfo &lt;textInfo&gt;5__2" newName="$Fc" />
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_MeshInfo[] &lt;cachedMeshInfoVertexData&gt;5__3" newName="$gc" />
+      <field signature="System.Collections.Generic.List`1&lt;int&gt; &lt;scaleSortingOrder&gt;5__4" newName="$Gc" />
+      <property signature="object System.Collections.Generic.IEnumerator&lt;System.Object&gt;.Current" newName="$a" />
+      <property signature="object System.Collections.IEnumerator.Current" newName="$A" />
+      <method signature="void TMPro.Examples.VertexZoom/&lt;AnimateVertexColors&gt;d__10::System.IDisposable.Dispose([Assembly-CSharp]TMPro.Examples.VertexZoom/&lt;AnimateVertexColors&gt;d__10)" newName="$Hd" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__10:System.IDisposable.Dispose()" newStackTraceSignature="TMPro.Examples.$L:$Hd()" />
+      <method signature="object TMPro.Examples.VertexZoom/&lt;AnimateVertexColors&gt;d__10::System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current([Assembly-CSharp]TMPro.Examples.VertexZoom/&lt;AnimateVertexColors&gt;d__10)" newName="$id" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__10:System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current()" newStackTraceSignature="TMPro.Examples.$L:$id()" />
+      <method signature="void TMPro.Examples.VertexZoom/&lt;AnimateVertexColors&gt;d__10::System.Collections.IEnumerator.Reset([Assembly-CSharp]TMPro.Examples.VertexZoom/&lt;AnimateVertexColors&gt;d__10)" newName="$Id" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__10:System.Collections.IEnumerator.Reset()" newStackTraceSignature="TMPro.Examples.$L:$Id()" />
+      <method signature="object TMPro.Examples.VertexZoom/&lt;AnimateVertexColors&gt;d__10::System.Collections.IEnumerator.get_Current([Assembly-CSharp]TMPro.Examples.VertexZoom/&lt;AnimateVertexColors&gt;d__10)" newName="$jd" oldStackTraceSignature="TMPro.Examples.&lt;AnimateVertexColors&gt;d__10:System.Collections.IEnumerator.get_Current()" newStackTraceSignature="TMPro.Examples.$L:$jd()" />
+    </type>
+    <type fullName="TMPro.Examples.WarpTextExample" newFullName="" status="NotRenamed">
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_Text m_TextComponent" newName="$hc" />
+      <method signature="[UnityEngine.CoreModule]UnityEngine.AnimationCurve TMPro.Examples.WarpTextExample::CopyAnimationCurve([Assembly-CSharp]TMPro.Examples.WarpTextExample, [UnityEngine.CoreModule]UnityEngine.AnimationCurve)" newName="$y" oldStackTraceSignature="TMPro.Examples.WarpTextExample:CopyAnimationCurve(AnimationCurve)" newStackTraceSignature="TMPro.Examples.WarpTextExample:$y(AnimationCurve)" />
+      <method signature="System.Collections.IEnumerator TMPro.Examples.WarpTextExample::WarpText([Assembly-CSharp]TMPro.Examples.WarpTextExample)" newName="$Y" oldStackTraceSignature="TMPro.Examples.WarpTextExample:WarpText()" newStackTraceSignature="TMPro.Examples.WarpTextExample:$Y()" />
+    </type>
+    <type fullName="TMPro.Examples.WarpTextExample/&lt;WarpText&gt;d__8" newFullName="TMPro.Examples.WarpTextExample/$m" status="Renamed">
+      <field signature="int &lt;&gt;1__state" newName="$Hc" />
+      <field signature="object &lt;&gt;2__current" newName="$ic" />
+      <field signature="[Assembly-CSharp]TMPro.Examples.WarpTextExample &lt;&gt;4__this" newName="$Ic" />
+      <field signature="float &lt;old_CurveScale&gt;5__2" newName="$jc" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.AnimationCurve &lt;old_curve&gt;5__3" newName="$Jc" />
+      <property signature="object System.Collections.Generic.IEnumerator&lt;System.Object&gt;.Current" newName="$a" />
+      <property signature="object System.Collections.IEnumerator.Current" newName="$A" />
+      <method signature="void TMPro.Examples.WarpTextExample/&lt;WarpText&gt;d__8::System.IDisposable.Dispose([Assembly-CSharp]TMPro.Examples.WarpTextExample/&lt;WarpText&gt;d__8)" newName="$Jd" oldStackTraceSignature="TMPro.Examples.&lt;WarpText&gt;d__8:System.IDisposable.Dispose()" newStackTraceSignature="TMPro.Examples.$m:$Jd()" />
+      <method signature="object TMPro.Examples.WarpTextExample/&lt;WarpText&gt;d__8::System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current([Assembly-CSharp]TMPro.Examples.WarpTextExample/&lt;WarpText&gt;d__8)" newName="$kd" oldStackTraceSignature="TMPro.Examples.&lt;WarpText&gt;d__8:System.Collections.Generic.IEnumerator&lt;System.Object&gt;.get_Current()" newStackTraceSignature="TMPro.Examples.$m:$kd()" />
+      <method signature="void TMPro.Examples.WarpTextExample/&lt;WarpText&gt;d__8::System.Collections.IEnumerator.Reset([Assembly-CSharp]TMPro.Examples.WarpTextExample/&lt;WarpText&gt;d__8)" newName="$Kd" oldStackTraceSignature="TMPro.Examples.&lt;WarpText&gt;d__8:System.Collections.IEnumerator.Reset()" newStackTraceSignature="TMPro.Examples.$m:$Kd()" />
+      <method signature="object TMPro.Examples.WarpTextExample/&lt;WarpText&gt;d__8::System.Collections.IEnumerator.get_Current([Assembly-CSharp]TMPro.Examples.WarpTextExample/&lt;WarpText&gt;d__8)" newName="$ld" oldStackTraceSignature="TMPro.Examples.&lt;WarpText&gt;d__8:System.Collections.IEnumerator.get_Current()" newStackTraceSignature="TMPro.Examples.$m:$ld()" />
+    </type>
+    <type fullName="TMPro.TMP_TextEventHandler" newFullName="" status="NotRenamed">
+      <field signature="[Unity.TextMeshPro]TMPro.TMP_Text m_TextComponent" newName="$d" />
+      <field signature="[UnityEngine.CoreModule]UnityEngine.Camera m_Camera" newName="$D" />
+      <field signature="[UnityEngine.UIModule]UnityEngine.Canvas m_Canvas" newName="$e" />
+      <field signature="int m_selectedLink" newName="$E" />
+      <field signature="int m_lastCharIndex" newName="$f" />
+      <field signature="int m_lastWordIndex" newName="$F" />
+      <field signature="int m_lastLineIndex" newName="$g" />
+      <property signature="[Assembly-CSharp]TMPro.TMP_TextEventHandler/CharacterSelectionEvent onCharacterSelection" newName="$a" />
+      <property signature="[Assembly-CSharp]TMPro.TMP_TextEventHandler/SpriteSelectionEvent onSpriteSelection" newName="$A" />
+      <property signature="[Assembly-CSharp]TMPro.TMP_TextEventHandler/WordSelectionEvent onWordSelection" newName="$b" />
+      <property signature="[Assembly-CSharp]TMPro.TMP_TextEventHandler/LineSelectionEvent onLineSelection" newName="$B" />
+      <property signature="[Assembly-CSharp]TMPro.TMP_TextEventHandler/LinkSelectionEvent onLinkSelection" newName="$c" />
+      <method signature="[Assembly-CSharp]TMPro.TMP_TextEventHandler/CharacterSelectionEvent TMPro.TMP_TextEventHandler::get_onCharacterSelection([Assembly-CSharp]TMPro.TMP_TextEventHandler)" newName="$c" oldStackTraceSignature="TMPro.TMP_TextEventHandler:get_onCharacterSelection()" newStackTraceSignature="TMPro.TMP_TextEventHandler:$c()" />
+      <method signature="void TMPro.TMP_TextEventHandler::set_onCharacterSelection([Assembly-CSharp]TMPro.TMP_TextEventHandler, [Assembly-CSharp]TMPro.TMP_TextEventHandler/CharacterSelectionEvent)" newName="$C" oldStackTraceSignature="TMPro.TMP_TextEventHandler:set_onCharacterSelection(CharacterSelectionEvent)" newStackTraceSignature="TMPro.TMP_TextEventHandler:$C(CharacterSelectionEvent)" />
+      <method signature="[Assembly-CSharp]TMPro.TMP_TextEventHandler/SpriteSelectionEvent TMPro.TMP_TextEventHandler::get_onSpriteSelection([Assembly-CSharp]TMPro.TMP_TextEventHandler)" newName="$d" oldStackTraceSignature="TMPro.TMP_TextEventHandler:get_onSpriteSelection()" newStackTraceSignature="TMPro.TMP_TextEventHandler:$d()" />
+      <method signature="void TMPro.TMP_TextEventHandler::set_onSpriteSelection([Assembly-CSharp]TMPro.TMP_TextEventHandler, [Assembly-CSharp]TMPro.TMP_TextEventHandler/SpriteSelectionEvent)" newName="$D" oldStackTraceSignature="TMPro.TMP_TextEventHandler:set_onSpriteSelection(SpriteSelectionEvent)" newStackTraceSignature="TMPro.TMP_TextEventHandler:$D(SpriteSelectionEvent)" />
+      <method signature="[Assembly-CSharp]TMPro.TMP_TextEventHandler/WordSelectionEvent TMPro.TMP_TextEventHandler::get_onWordSelection([Assembly-CSharp]TMPro.TMP_TextEventHandler)" newName="$e" oldStackTraceSignature="TMPro.TMP_TextEventHandler:get_onWordSelection()" newStackTraceSignature="TMPro.TMP_TextEventHandler:$e()" />
+      <method signature="void TMPro.TMP_TextEventHandler::set_onWordSelection([Assembly-CSharp]TMPro.TMP_TextEventHandler, [Assembly-CSharp]TMPro.TMP_TextEventHandler/WordSelectionEvent)" newName="$E" oldStackTraceSignature="TMPro.TMP_TextEventHandler:set_onWordSelection(WordSelectionEvent)" newStackTraceSignature="TMPro.TMP_TextEventHandler:$E(WordSelectionEvent)" />
+      <method signature="[Assembly-CSharp]TMPro.TMP_TextEventHandler/LineSelectionEvent TMPro.TMP_TextEventHandler::get_onLineSelection([Assembly-CSharp]TMPro.TMP_TextEventHandler)" newName="$f" oldStackTraceSignature="TMPro.TMP_TextEventHandler:get_onLineSelection()" newStackTraceSignature="TMPro.TMP_TextEventHandler:$f()" />
+      <method signature="void TMPro.TMP_TextEventHandler::set_onLineSelection([Assembly-CSharp]TMPro.TMP_TextEventHandler, [Assembly-CSharp]TMPro.TMP_TextEventHandler/LineSelectionEvent)" newName="$F" oldStackTraceSignature="TMPro.TMP_TextEventHandler:set_onLineSelection(LineSelectionEvent)" newStackTraceSignature="TMPro.TMP_TextEventHandler:$F(LineSelectionEvent)" />
+      <method signature="[Assembly-CSharp]TMPro.TMP_TextEventHandler/LinkSelectionEvent TMPro.TMP_TextEventHandler::get_onLinkSelection([Assembly-CSharp]TMPro.TMP_TextEventHandler)" newName="$g" oldStackTraceSignature="TMPro.TMP_TextEventHandler:get_onLinkSelection()" newStackTraceSignature="TMPro.TMP_TextEventHandler:$g()" />
+      <method signature="void TMPro.TMP_TextEventHandler::set_onLinkSelection([Assembly-CSharp]TMPro.TMP_TextEventHandler, [Assembly-CSharp]TMPro.TMP_TextEventHandler/LinkSelectionEvent)" newName="$G" oldStackTraceSignature="TMPro.TMP_TextEventHandler:set_onLinkSelection(LinkSelectionEvent)" newStackTraceSignature="TMPro.TMP_TextEventHandler:$G(LinkSelectionEvent)" />
+      <method signature="void TMPro.TMP_TextEventHandler::SendOnCharacterSelection([Assembly-CSharp]TMPro.TMP_TextEventHandler, char, int)" newName="$h" oldStackTraceSignature="TMPro.TMP_TextEventHandler:SendOnCharacterSelection(Char, Int32)" newStackTraceSignature="TMPro.TMP_TextEventHandler:$h(Char, Int32)" />
+      <method signature="void TMPro.TMP_TextEventHandler::SendOnSpriteSelection([Assembly-CSharp]TMPro.TMP_TextEventHandler, char, int)" newName="$H" oldStackTraceSignature="TMPro.TMP_TextEventHandler:SendOnSpriteSelection(Char, Int32)" newStackTraceSignature="TMPro.TMP_TextEventHandler:$H(Char, Int32)" />
+      <method signature="void TMPro.TMP_TextEventHandler::SendOnWordSelection([Assembly-CSharp]TMPro.TMP_TextEventHandler, string, int, int)" newName="$i" oldStackTraceSignature="TMPro.TMP_TextEventHandler:SendOnWordSelection(String, Int32, Int32)" newStackTraceSignature="TMPro.TMP_TextEventHandler:$i(String, Int32, Int32)" />
+      <method signature="void TMPro.TMP_TextEventHandler::SendOnLineSelection([Assembly-CSharp]TMPro.TMP_TextEventHandler, string, int, int)" newName="$I" oldStackTraceSignature="TMPro.TMP_TextEventHandler:SendOnLineSelection(String, Int32, Int32)" newStackTraceSignature="TMPro.TMP_TextEventHandler:$I(String, Int32, Int32)" />
+      <method signature="void TMPro.TMP_TextEventHandler::SendOnLinkSelection([Assembly-CSharp]TMPro.TMP_TextEventHandler, string, string, int)" newName="$j" oldStackTraceSignature="TMPro.TMP_TextEventHandler:SendOnLinkSelection(String, String, Int32)" newStackTraceSignature="TMPro.TMP_TextEventHandler:$j(String, String, Int32)" />
+    </type>
+  </assembly>
+  <assembly name="Obfuz.Runtime">
+    <type fullName="&lt;PrivateImplementationDetails&gt;" newFullName="$dA" status="Renamed">
+      <field signature="[Obfuz.Runtime]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_3 $Obfuz$WatermarkDataHolderField3" newName="$OD" />
+      <field signature="[Obfuz.Runtime]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_13 $Obfuz$WatermarkDataHolderField13" newName="$pD" />
+      <field signature="[Obfuz.Runtime]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_10 $Obfuz$WatermarkDataHolderField10" newName="$PD" />
+      <field signature="[Obfuz.Runtime]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize32_12 $Obfuz$WatermarkDataHolderField12" newName="$qD" />
+      <field signature="[Obfuz.Runtime]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize48_9 $Obfuz$WatermarkDataHolderField9" newName="$QD" />
+      <field signature="[Obfuz.Runtime]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize28_7 $Obfuz$WatermarkDataHolderField7" newName="$rD" />
+      <field signature="[Obfuz.Runtime]&lt;PrivateImplementationDetails&gt;/__StaticArrayInitTypeSize=428 7DC72EACF4C52A1729F6C06DF08DBBB25CECF769449A70A0D97F6EADE43D51F3" newName="$RD" />
+      <field signature="[Obfuz.Runtime]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize44_2 $Obfuz$WatermarkDataHolderField2" newName="$sD" />
+      <field signature="[Obfuz.Runtime]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_6 $Obfuz$WatermarkDataHolderField6" newName="$SD" />
+      <field signature="[Obfuz.Runtime]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize28_4 $Obfuz$WatermarkDataHolderField4" newName="$tD" />
+      <field signature="[Obfuz.Runtime]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize44_5 $Obfuz$WatermarkDataHolderField5" newName="$TD" />
+      <field signature="[Obfuz.Runtime]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize28_11 $Obfuz$WatermarkDataHolderField11" newName="$uD" />
+      <field signature="[Obfuz.Runtime]&lt;PrivateImplementationDetails&gt;/__StaticArrayInitTypeSize=1122 12FA6265B55B7A417EBA5A57C922D6ACC65D18794CE36BD8EBCB2F864F5B21C5" newName="$UD" />
+      <field signature="[Obfuz.Runtime]&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_8 $Obfuz$WatermarkDataHolderField8" newName="$vD" />
+    </type>
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize28_11" newFullName="$dA/$jA" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize28_4" newFullName="$dA/$FA" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize28_7" newFullName="$dA/$hA" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize32_12" newFullName="$dA/$JA" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_10" newFullName="$dA/$IA" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_13" newFullName="$dA/$kA" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_3" newFullName="$dA/$fA" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_6" newFullName="$dA/$GA" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize36_8" newFullName="$dA/$HA" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize44_2" newFullName="$dA/$EA" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize44_5" newFullName="$dA/$gA" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/$Obfuz$WatermarkDataHolderSize48_9" newFullName="$dA/$iA" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/__StaticArrayInitTypeSize=1122" newFullName="$dA/$eA" status="Renamed" />
+    <type fullName="&lt;PrivateImplementationDetails&gt;/__StaticArrayInitTypeSize=428" newFullName="$dA/$DA" status="Renamed" />
+    <type fullName="Obfuz.AssertUtility" newFullName="$A.$W" status="Renamed">
+      <method signature="void Obfuz.AssertUtility::@VerifySecretKey(int, int)" newName="$IB" oldStackTraceSignature="Obfuz.AssertUtility:VerifySecretKey(Int32, Int32)" newStackTraceSignature="$A.$W:$IB(Int32, Int32)" />
+    </type>
+    <type fullName="Obfuz.ConstUtility" newFullName="$A.$x" status="Renamed">
+      <method signature="int Obfuz.ConstUtility::@GetInt(byte[], int)" newName="$jB" oldStackTraceSignature="Obfuz.ConstUtility:GetInt(Byte[], Int32)" newStackTraceSignature="$A.$x:$jB(Byte[], Int32)" />
+      <method signature="long Obfuz.ConstUtility::@GetLong(byte[], int)" newName="$JB" oldStackTraceSignature="Obfuz.ConstUtility:GetLong(Byte[], Int32)" newStackTraceSignature="$A.$x:$JB(Byte[], Int32)" />
+      <method signature="float Obfuz.ConstUtility::@GetFloat(byte[], int)" newName="$kB" oldStackTraceSignature="Obfuz.ConstUtility:GetFloat(Byte[], Int32)" newStackTraceSignature="$A.$x:$kB(Byte[], Int32)" />
+      <method signature="double Obfuz.ConstUtility::@GetDouble(byte[], int)" newName="$KB" oldStackTraceSignature="Obfuz.ConstUtility:GetDouble(Byte[], Int32)" newStackTraceSignature="$A.$x:$KB(Byte[], Int32)" />
+      <method signature="string Obfuz.ConstUtility::@GetString(byte[], int, int)" newName="$lB" oldStackTraceSignature="Obfuz.ConstUtility:GetString(Byte[], Int32, Int32)" newStackTraceSignature="$A.$x:$lB(Byte[], Int32, Int32)" />
+      <method signature="byte[] Obfuz.ConstUtility::@GetBytes(byte[], int, int)" newName="$LB" oldStackTraceSignature="Obfuz.ConstUtility:GetBytes(Byte[], Int32, Int32)" newStackTraceSignature="$A.$x:$LB(Byte[], Int32, Int32)" />
+      <method signature="int[] Obfuz.ConstUtility::@GetInts(byte[], int, int)" newName="$mB" oldStackTraceSignature="Obfuz.ConstUtility:GetInts(Byte[], Int32, Int32)" newStackTraceSignature="$A.$x:$mB(Byte[], Int32, Int32)" />
+      <method signature="void Obfuz.ConstUtility::@InitializeArray(System.Array, byte[], int, int)" newName="$MB" oldStackTraceSignature="Obfuz.ConstUtility:InitializeArray(Array, Byte[], Int32, Int32)" newStackTraceSignature="$A.$x:$MB(Array, Byte[], Int32, Int32)" />
+      <method signature="int Obfuz.ConstUtility::@CastFloatAsInt(float)" newName="$nB" oldStackTraceSignature="Obfuz.ConstUtility:CastFloatAsInt(Single)" newStackTraceSignature="$A.$x:$nB(Single)" />
+      <method signature="float Obfuz.ConstUtility::@CastIntAsFloat(int)" newName="$NB" oldStackTraceSignature="Obfuz.ConstUtility:CastIntAsFloat(Int32)" newStackTraceSignature="$A.$x:$NB(Int32)" />
+      <method signature="long Obfuz.ConstUtility::@CastDoubleAsLong(double)" newName="$oB" oldStackTraceSignature="Obfuz.ConstUtility:CastDoubleAsLong(Double)" newStackTraceSignature="$A.$x:$oB(Double)" />
+      <method signature="double Obfuz.ConstUtility::@CastLongAsDouble(long)" newName="$OB" oldStackTraceSignature="Obfuz.ConstUtility:CastLongAsDouble(Int64)" newStackTraceSignature="$A.$x:$OB(Int64)" />
+    </type>
+    <type fullName="Obfuz.DefaultDynamicEncryptionScope" newFullName="$A.$Y" status="Renamed">
+      <method signature="void Obfuz.DefaultDynamicEncryptionScope::ForcePreserveAOT([Obfuz.Runtime]Obfuz.DefaultDynamicEncryptionScope&amp;)" newName="$PB" oldStackTraceSignature="Obfuz.DefaultDynamicEncryptionScope:ForcePreserveAOT()" newStackTraceSignature="$A.$Y:$PB()" />
+    </type>
+    <type fullName="Obfuz.DefaultStaticEncryptionScope" newFullName="$A.$z" status="Renamed">
+      <method signature="void Obfuz.DefaultStaticEncryptionScope::ForcePreserveAOT([Obfuz.Runtime]Obfuz.DefaultStaticEncryptionScope&amp;)" newName="$qB" oldStackTraceSignature="Obfuz.DefaultStaticEncryptionScope:ForcePreserveAOT()" newStackTraceSignature="$A.$z:$qB()" />
+    </type>
+    <type fullName="Obfuz.EncryptionScopeBase" newFullName="$A.$y" status="Renamed">
+      <method signature="void Obfuz.EncryptionScopeBase::ForcePreserveAOT([Obfuz.Runtime]Obfuz.EncryptionScopeBase)" newName="$pB" oldStackTraceSignature="Obfuz.EncryptionScopeBase:ForcePreserveAOT()" newStackTraceSignature="$A.$y:$pB()" />
+    </type>
+    <type fullName="Obfuz.EncryptionService`1" newFullName="$A.$Z`1" status="Renamed">
+      <field signature="[Obfuz.Runtime]Obfuz.IEncryptor _encryptor" newName="$MD" />
+      <property signature="[Obfuz.Runtime]Obfuz.IEncryptor Encryptor" newName="$a" />
+      <method signature="[Obfuz.Runtime]Obfuz.IEncryptor Obfuz.EncryptionService`1::@get_Encryptor()" newName="$QB" oldStackTraceSignature="Obfuz.EncryptionService`1:get_Encryptor()" newStackTraceSignature="$A.$Z`1:$QB()" />
+      <method signature="void Obfuz.EncryptionService`1::@set_Encryptor([Obfuz.Runtime]Obfuz.IEncryptor)" newName="$rB" oldStackTraceSignature="Obfuz.EncryptionService`1:set_Encryptor(IEncryptor)" newStackTraceSignature="$A.$Z`1:$rB($bA)" />
+      <method signature="void Obfuz.EncryptionService`1::@EncryptBlock(byte[], int, int)" newName="$RB" oldStackTraceSignature="Obfuz.EncryptionService`1:EncryptBlock(Byte[], Int32, Int32)" newStackTraceSignature="$A.$Z`1:$RB(Byte[], Int32, Int32)" />
+      <method signature="void Obfuz.EncryptionService`1::@DecryptBlock(byte[], int, int)" newName="$sB" oldStackTraceSignature="Obfuz.EncryptionService`1:DecryptBlock(Byte[], Int32, Int32)" newStackTraceSignature="$A.$Z`1:$sB(Byte[], Int32, Int32)" />
+      <method signature="int Obfuz.EncryptionService`1::@Encrypt(int, int, int)" newName="$SB" oldStackTraceSignature="Obfuz.EncryptionService`1:Encrypt(Int32, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$SB(Int32, Int32, Int32)" />
+      <method signature="int Obfuz.EncryptionService`1::@Decrypt(int, int, int)" newName="$tB" oldStackTraceSignature="Obfuz.EncryptionService`1:Decrypt(Int32, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$tB(Int32, Int32, Int32)" />
+      <method signature="long Obfuz.EncryptionService`1::@Encrypt(long, int, int)" newName="$TB" oldStackTraceSignature="Obfuz.EncryptionService`1:Encrypt(Int64, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$TB(Int64, Int32, Int32)" />
+      <method signature="long Obfuz.EncryptionService`1::@Decrypt(long, int, int)" newName="$uB" oldStackTraceSignature="Obfuz.EncryptionService`1:Decrypt(Int64, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$uB(Int64, Int32, Int32)" />
+      <method signature="float Obfuz.EncryptionService`1::@Encrypt(float, int, int)" newName="$UB" oldStackTraceSignature="Obfuz.EncryptionService`1:Encrypt(Single, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$UB(Single, Int32, Int32)" />
+      <method signature="float Obfuz.EncryptionService`1::@Decrypt(float, int, int)" newName="$vB" oldStackTraceSignature="Obfuz.EncryptionService`1:Decrypt(Single, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$vB(Single, Int32, Int32)" />
+      <method signature="double Obfuz.EncryptionService`1::@Encrypt(double, int, int)" newName="$VB" oldStackTraceSignature="Obfuz.EncryptionService`1:Encrypt(Double, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$VB(Double, Int32, Int32)" />
+      <method signature="double Obfuz.EncryptionService`1::@Decrypt(double, int, int)" newName="$wB" oldStackTraceSignature="Obfuz.EncryptionService`1:Decrypt(Double, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$wB(Double, Int32, Int32)" />
+      <method signature="byte[] Obfuz.EncryptionService`1::@Encrypt(byte[], int, int, int, int)" newName="$WB" oldStackTraceSignature="Obfuz.EncryptionService`1:Encrypt(Byte[], Int32, Int32, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$WB(Byte[], Int32, Int32, Int32, Int32)" />
+      <method signature="byte[] Obfuz.EncryptionService`1::@Decrypt(byte[], int, int, int, int)" newName="$xB" oldStackTraceSignature="Obfuz.EncryptionService`1:Decrypt(Byte[], Int32, Int32, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$xB(Byte[], Int32, Int32, Int32, Int32)" />
+      <method signature="byte[] Obfuz.EncryptionService`1::@Encrypt(string, int, int)" newName="$XB" oldStackTraceSignature="Obfuz.EncryptionService`1:Encrypt(String, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$XB(String, Int32, Int32)" />
+      <method signature="string Obfuz.EncryptionService`1::@DecryptString(byte[], int, int, int, int)" newName="$yB" oldStackTraceSignature="Obfuz.EncryptionService`1:DecryptString(Byte[], Int32, Int32, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$yB(Byte[], Int32, Int32, Int32, Int32)" />
+      <method signature="int Obfuz.EncryptionService`1::@DecryptFromRvaInt(byte[], int, int, int)" newName="$YB" oldStackTraceSignature="Obfuz.EncryptionService`1:DecryptFromRvaInt(Byte[], Int32, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$YB(Byte[], Int32, Int32, Int32)" />
+      <method signature="long Obfuz.EncryptionService`1::@DecryptFromRvaLong(byte[], int, int, int)" newName="$zB" oldStackTraceSignature="Obfuz.EncryptionService`1:DecryptFromRvaLong(Byte[], Int32, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$zB(Byte[], Int32, Int32, Int32)" />
+      <method signature="float Obfuz.EncryptionService`1::@DecryptFromRvaFloat(byte[], int, int, int)" newName="$ZB" oldStackTraceSignature="Obfuz.EncryptionService`1:DecryptFromRvaFloat(Byte[], Int32, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$ZB(Byte[], Int32, Int32, Int32)" />
+      <method signature="double Obfuz.EncryptionService`1::@DecryptFromRvaDouble(byte[], int, int, int)" newName="$ac" oldStackTraceSignature="Obfuz.EncryptionService`1:DecryptFromRvaDouble(Byte[], Int32, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$ac(Byte[], Int32, Int32, Int32)" />
+      <method signature="string Obfuz.EncryptionService`1::@DecryptFromRvaString(byte[], int, int, int, int)" newName="$Ac" oldStackTraceSignature="Obfuz.EncryptionService`1:DecryptFromRvaString(Byte[], Int32, Int32, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$Ac(Byte[], Int32, Int32, Int32, Int32)" />
+      <method signature="byte[] Obfuz.EncryptionService`1::@DecryptFromRvaBytes(byte[], int, int, int, int)" newName="$bc" oldStackTraceSignature="Obfuz.EncryptionService`1:DecryptFromRvaBytes(Byte[], Int32, Int32, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$bc(Byte[], Int32, Int32, Int32, Int32)" />
+      <method signature="void Obfuz.EncryptionService`1::@DecryptInitializeArray(System.Array, System.RuntimeFieldHandle, int, int, int)" newName="$Bc" oldStackTraceSignature="Obfuz.EncryptionService`1:DecryptInitializeArray(Array, RuntimeFieldHandle, Int32, Int32, Int32)" newStackTraceSignature="$A.$Z`1:$Bc(Array, RuntimeFieldHandle, Int32, Int32, Int32)" />
+    </type>
+    <type fullName="Obfuz.EncryptorBase" newFullName="$A.$aA" status="Renamed">
+      <property signature="int OpCodeCount" newName="$a" />
+      <method signature="int Obfuz.EncryptorBase::get_OpCodeCount([Obfuz.Runtime]Obfuz.EncryptorBase)" newName="$Ld" oldStackTraceSignature="Obfuz.EncryptorBase:get_OpCodeCount()" newStackTraceSignature="$A.$aA:$Ld()" />
+      <method signature="int[] Obfuz.EncryptorBase::@ConvertToIntKey(byte[])" newName="$cc" oldStackTraceSignature="Obfuz.EncryptorBase:ConvertToIntKey(Byte[])" newStackTraceSignature="$A.$aA:$cc(Byte[])" />
+      <method signature="int Obfuz.EncryptorBase::Encrypt([Obfuz.Runtime]Obfuz.EncryptorBase, int, int, int)" newName="$md" oldStackTraceSignature="Obfuz.EncryptorBase:Encrypt(Int32, Int32, Int32)" newStackTraceSignature="$A.$aA:$md(Int32, Int32, Int32)" />
+      <method signature="int Obfuz.EncryptorBase::Decrypt([Obfuz.Runtime]Obfuz.EncryptorBase, int, int, int)" newName="$Md" oldStackTraceSignature="Obfuz.EncryptorBase:Decrypt(Int32, Int32, Int32)" newStackTraceSignature="$A.$aA:$Md(Int32, Int32, Int32)" />
+      <method signature="long Obfuz.EncryptorBase::Encrypt([Obfuz.Runtime]Obfuz.EncryptorBase, long, int, int)" newName="$nd" oldStackTraceSignature="Obfuz.EncryptorBase:Encrypt(Int64, Int32, Int32)" newStackTraceSignature="$A.$aA:$nd(Int64, Int32, Int32)" />
+      <method signature="long Obfuz.EncryptorBase::Decrypt([Obfuz.Runtime]Obfuz.EncryptorBase, long, int, int)" newName="$Nd" oldStackTraceSignature="Obfuz.EncryptorBase:Decrypt(Int64, Int32, Int32)" newStackTraceSignature="$A.$aA:$Nd(Int64, Int32, Int32)" />
+      <method signature="float Obfuz.EncryptorBase::Encrypt([Obfuz.Runtime]Obfuz.EncryptorBase, float, int, int)" newName="$od" oldStackTraceSignature="Obfuz.EncryptorBase:Encrypt(Single, Int32, Int32)" newStackTraceSignature="$A.$aA:$od(Single, Int32, Int32)" />
+      <method signature="float Obfuz.EncryptorBase::Decrypt([Obfuz.Runtime]Obfuz.EncryptorBase, float, int, int)" newName="$Od" oldStackTraceSignature="Obfuz.EncryptorBase:Decrypt(Single, Int32, Int32)" newStackTraceSignature="$A.$aA:$Od(Single, Int32, Int32)" />
+      <method signature="double Obfuz.EncryptorBase::Encrypt([Obfuz.Runtime]Obfuz.EncryptorBase, double, int, int)" newName="$pd" oldStackTraceSignature="Obfuz.EncryptorBase:Encrypt(Double, Int32, Int32)" newStackTraceSignature="$A.$aA:$pd(Double, Int32, Int32)" />
+      <method signature="double Obfuz.EncryptorBase::Decrypt([Obfuz.Runtime]Obfuz.EncryptorBase, double, int, int)" newName="$Pd" oldStackTraceSignature="Obfuz.EncryptorBase:Decrypt(Double, Int32, Int32)" newStackTraceSignature="$A.$aA:$Pd(Double, Int32, Int32)" />
+      <method signature="byte[] Obfuz.EncryptorBase::Encrypt([Obfuz.Runtime]Obfuz.EncryptorBase, byte[], int, int, int, int)" newName="$qd" oldStackTraceSignature="Obfuz.EncryptorBase:Encrypt(Byte[], Int32, Int32, Int32, Int32)" newStackTraceSignature="$A.$aA:$qd(Byte[], Int32, Int32, Int32, Int32)" />
+      <method signature="byte[] Obfuz.EncryptorBase::Decrypt([Obfuz.Runtime]Obfuz.EncryptorBase, byte[], int, int, int, int)" newName="$Qd" oldStackTraceSignature="Obfuz.EncryptorBase:Decrypt(Byte[], Int32, Int32, Int32, Int32)" newStackTraceSignature="$A.$aA:$Qd(Byte[], Int32, Int32, Int32, Int32)" />
+      <method signature="byte[] Obfuz.EncryptorBase::Encrypt([Obfuz.Runtime]Obfuz.EncryptorBase, string, int, int)" newName="$rd" oldStackTraceSignature="Obfuz.EncryptorBase:Encrypt(String, Int32, Int32)" newStackTraceSignature="$A.$aA:$rd(String, Int32, Int32)" />
+      <method signature="string Obfuz.EncryptorBase::DecryptString([Obfuz.Runtime]Obfuz.EncryptorBase, byte[], int, int, int, int)" newName="$Rd" oldStackTraceSignature="Obfuz.EncryptorBase:DecryptString(Byte[], Int32, Int32, Int32, Int32)" newStackTraceSignature="$A.$aA:$Rd(Byte[], Int32, Int32, Int32, Int32)" />
+      <method signature="void Obfuz.EncryptorBase::EncryptBlock([Obfuz.Runtime]Obfuz.EncryptorBase, byte[], int, int)" newName="$sd" oldStackTraceSignature="Obfuz.EncryptorBase:EncryptBlock(Byte[], Int32, Int32)" newStackTraceSignature="$A.$aA:$sd(Byte[], Int32, Int32)" />
+      <method signature="void Obfuz.EncryptorBase::DecryptBlock([Obfuz.Runtime]Obfuz.EncryptorBase, byte[], int, int)" newName="$Sd" oldStackTraceSignature="Obfuz.EncryptorBase:DecryptBlock(Byte[], Int32, Int32)" newStackTraceSignature="$A.$aA:$Sd(Byte[], Int32, Int32)" />
+      <method signature="void Obfuz.EncryptorBase::DecryptBlock([Obfuz.Runtime]Obfuz.EncryptorBase, byte*, int, int, int)" newName="$Cc" oldStackTraceSignature="Obfuz.EncryptorBase:DecryptBlock(Byte*, Int32, Int32, Int32)" newStackTraceSignature="$A.$aA:$Cc(Byte*, Int32, Int32, Int32)" />
+      <method signature="void Obfuz.EncryptorBase::DecryptInitializeArray([Obfuz.Runtime]Obfuz.EncryptorBase, System.Array, System.RuntimeFieldHandle, int, int, int)" newName="$td" oldStackTraceSignature="Obfuz.EncryptorBase:DecryptInitializeArray(Array, RuntimeFieldHandle, Int32, Int32, Int32)" newStackTraceSignature="$A.$aA:$td(Array, RuntimeFieldHandle, Int32, Int32, Int32)" />
+    </type>
+    <type fullName="Obfuz.ExprUtility" newFullName="$A.$AA" status="Renamed">
+      <method signature="int Obfuz.ExprUtility::@Add(int, int)" newName="$dc" oldStackTraceSignature="Obfuz.ExprUtility:Add(Int32, Int32)" newStackTraceSignature="$A.$AA:$dc(Int32, Int32)" />
+      <method signature="long Obfuz.ExprUtility::@Add(long, long)" newName="$Dc" oldStackTraceSignature="Obfuz.ExprUtility:Add(Int64, Int64)" newStackTraceSignature="$A.$AA:$Dc(Int64, Int64)" />
+      <method signature="float Obfuz.ExprUtility::@Add(float, float)" newName="$ec" oldStackTraceSignature="Obfuz.ExprUtility:Add(Single, Single)" newStackTraceSignature="$A.$AA:$ec(Single, Single)" />
+      <method signature="double Obfuz.ExprUtility::@Add(double, double)" newName="$Ec" oldStackTraceSignature="Obfuz.ExprUtility:Add(Double, Double)" newStackTraceSignature="$A.$AA:$Ec(Double, Double)" />
+      <method signature="nint Obfuz.ExprUtility::@Add(nint, nint)" newName="$fc" oldStackTraceSignature="Obfuz.ExprUtility:Add(IntPtr, IntPtr)" newStackTraceSignature="$A.$AA:$fc(IntPtr, IntPtr)" />
+      <method signature="nint Obfuz.ExprUtility::@Add(nint, int)" newName="$Fc" oldStackTraceSignature="Obfuz.ExprUtility:Add(IntPtr, Int32)" newStackTraceSignature="$A.$AA:$Fc(IntPtr, Int32)" />
+      <method signature="int Obfuz.ExprUtility::@Subtract(int, int)" newName="$gc" oldStackTraceSignature="Obfuz.ExprUtility:Subtract(Int32, Int32)" newStackTraceSignature="$A.$AA:$gc(Int32, Int32)" />
+      <method signature="long Obfuz.ExprUtility::@Subtract(long, long)" newName="$Gc" oldStackTraceSignature="Obfuz.ExprUtility:Subtract(Int64, Int64)" newStackTraceSignature="$A.$AA:$Gc(Int64, Int64)" />
+      <method signature="float Obfuz.ExprUtility::@Subtract(float, float)" newName="$hc" oldStackTraceSignature="Obfuz.ExprUtility:Subtract(Single, Single)" newStackTraceSignature="$A.$AA:$hc(Single, Single)" />
+      <method signature="double Obfuz.ExprUtility::@Subtract(double, double)" newName="$Hc" oldStackTraceSignature="Obfuz.ExprUtility:Subtract(Double, Double)" newStackTraceSignature="$A.$AA:$Hc(Double, Double)" />
+      <method signature="nint Obfuz.ExprUtility::@Subtract(nint, nint)" newName="$ic" oldStackTraceSignature="Obfuz.ExprUtility:Subtract(IntPtr, IntPtr)" newStackTraceSignature="$A.$AA:$ic(IntPtr, IntPtr)" />
+      <method signature="nint Obfuz.ExprUtility::@Subtract(nint, int)" newName="$Ic" oldStackTraceSignature="Obfuz.ExprUtility:Subtract(IntPtr, Int32)" newStackTraceSignature="$A.$AA:$Ic(IntPtr, Int32)" />
+      <method signature="int Obfuz.ExprUtility::@Multiply(int, int)" newName="$jc" oldStackTraceSignature="Obfuz.ExprUtility:Multiply(Int32, Int32)" newStackTraceSignature="$A.$AA:$jc(Int32, Int32)" />
+      <method signature="long Obfuz.ExprUtility::@Multiply(long, long)" newName="$Jc" oldStackTraceSignature="Obfuz.ExprUtility:Multiply(Int64, Int64)" newStackTraceSignature="$A.$AA:$Jc(Int64, Int64)" />
+      <method signature="float Obfuz.ExprUtility::@Multiply(float, float)" newName="$kc" oldStackTraceSignature="Obfuz.ExprUtility:Multiply(Single, Single)" newStackTraceSignature="$A.$AA:$kc(Single, Single)" />
+      <method signature="double Obfuz.ExprUtility::@Multiply(double, double)" newName="$Kc" oldStackTraceSignature="Obfuz.ExprUtility:Multiply(Double, Double)" newStackTraceSignature="$A.$AA:$Kc(Double, Double)" />
+      <method signature="nint Obfuz.ExprUtility::@Multiply(nint, nint)" newName="$lc" oldStackTraceSignature="Obfuz.ExprUtility:Multiply(IntPtr, IntPtr)" newStackTraceSignature="$A.$AA:$lc(IntPtr, IntPtr)" />
+      <method signature="nint Obfuz.ExprUtility::@Multiply(nint, int)" newName="$Lc" oldStackTraceSignature="Obfuz.ExprUtility:Multiply(IntPtr, Int32)" newStackTraceSignature="$A.$AA:$Lc(IntPtr, Int32)" />
+      <method signature="int Obfuz.ExprUtility::@Divide(int, int)" newName="$mc" oldStackTraceSignature="Obfuz.ExprUtility:Divide(Int32, Int32)" newStackTraceSignature="$A.$AA:$mc(Int32, Int32)" />
+      <method signature="long Obfuz.ExprUtility::@Divide(long, long)" newName="$Mc" oldStackTraceSignature="Obfuz.ExprUtility:Divide(Int64, Int64)" newStackTraceSignature="$A.$AA:$Mc(Int64, Int64)" />
+      <method signature="float Obfuz.ExprUtility::@Divide(float, float)" newName="$nc" oldStackTraceSignature="Obfuz.ExprUtility:Divide(Single, Single)" newStackTraceSignature="$A.$AA:$nc(Single, Single)" />
+      <method signature="double Obfuz.ExprUtility::@Divide(double, double)" newName="$Nc" oldStackTraceSignature="Obfuz.ExprUtility:Divide(Double, Double)" newStackTraceSignature="$A.$AA:$Nc(Double, Double)" />
+      <method signature="int Obfuz.ExprUtility::@DivideUn(int, int)" newName="$oc" oldStackTraceSignature="Obfuz.ExprUtility:DivideUn(Int32, Int32)" newStackTraceSignature="$A.$AA:$oc(Int32, Int32)" />
+      <method signature="long Obfuz.ExprUtility::@DivideUn(long, long)" newName="$Oc" oldStackTraceSignature="Obfuz.ExprUtility:DivideUn(Int64, Int64)" newStackTraceSignature="$A.$AA:$Oc(Int64, Int64)" />
+      <method signature="int Obfuz.ExprUtility::@Rem(int, int)" newName="$pc" oldStackTraceSignature="Obfuz.ExprUtility:Rem(Int32, Int32)" newStackTraceSignature="$A.$AA:$pc(Int32, Int32)" />
+      <method signature="long Obfuz.ExprUtility::@Rem(long, long)" newName="$Pc" oldStackTraceSignature="Obfuz.ExprUtility:Rem(Int64, Int64)" newStackTraceSignature="$A.$AA:$Pc(Int64, Int64)" />
+      <method signature="float Obfuz.ExprUtility::@Rem(float, float)" newName="$qc" oldStackTraceSignature="Obfuz.ExprUtility:Rem(Single, Single)" newStackTraceSignature="$A.$AA:$qc(Single, Single)" />
+      <method signature="double Obfuz.ExprUtility::@Rem(double, double)" newName="$Qc" oldStackTraceSignature="Obfuz.ExprUtility:Rem(Double, Double)" newStackTraceSignature="$A.$AA:$Qc(Double, Double)" />
+      <method signature="int Obfuz.ExprUtility::@RemUn(int, int)" newName="$rc" oldStackTraceSignature="Obfuz.ExprUtility:RemUn(Int32, Int32)" newStackTraceSignature="$A.$AA:$rc(Int32, Int32)" />
+      <method signature="long Obfuz.ExprUtility::@RemUn(long, long)" newName="$Rc" oldStackTraceSignature="Obfuz.ExprUtility:RemUn(Int64, Int64)" newStackTraceSignature="$A.$AA:$Rc(Int64, Int64)" />
+      <method signature="int Obfuz.ExprUtility::@Negate(int)" newName="$sc" oldStackTraceSignature="Obfuz.ExprUtility:Negate(Int32)" newStackTraceSignature="$A.$AA:$sc(Int32)" />
+      <method signature="long Obfuz.ExprUtility::@Negate(long)" newName="$Sc" oldStackTraceSignature="Obfuz.ExprUtility:Negate(Int64)" newStackTraceSignature="$A.$AA:$Sc(Int64)" />
+      <method signature="float Obfuz.ExprUtility::@Negate(float)" newName="$tc" oldStackTraceSignature="Obfuz.ExprUtility:Negate(Single)" newStackTraceSignature="$A.$AA:$tc(Single)" />
+      <method signature="double Obfuz.ExprUtility::@Negate(double)" newName="$Tc" oldStackTraceSignature="Obfuz.ExprUtility:Negate(Double)" newStackTraceSignature="$A.$AA:$Tc(Double)" />
+      <method signature="int Obfuz.ExprUtility::@And(int, int)" newName="$uc" oldStackTraceSignature="Obfuz.ExprUtility:And(Int32, Int32)" newStackTraceSignature="$A.$AA:$uc(Int32, Int32)" />
+      <method signature="long Obfuz.ExprUtility::@And(long, long)" newName="$Uc" oldStackTraceSignature="Obfuz.ExprUtility:And(Int64, Int64)" newStackTraceSignature="$A.$AA:$Uc(Int64, Int64)" />
+      <method signature="int Obfuz.ExprUtility::@Or(int, int)" newName="$vc" oldStackTraceSignature="Obfuz.ExprUtility:Or(Int32, Int32)" newStackTraceSignature="$A.$AA:$vc(Int32, Int32)" />
+      <method signature="long Obfuz.ExprUtility::@Or(long, long)" newName="$Vc" oldStackTraceSignature="Obfuz.ExprUtility:Or(Int64, Int64)" newStackTraceSignature="$A.$AA:$Vc(Int64, Int64)" />
+      <method signature="int Obfuz.ExprUtility::@Xor(int, int)" newName="$wc" oldStackTraceSignature="Obfuz.ExprUtility:Xor(Int32, Int32)" newStackTraceSignature="$A.$AA:$wc(Int32, Int32)" />
+      <method signature="long Obfuz.ExprUtility::@Xor(long, long)" newName="$Wc" oldStackTraceSignature="Obfuz.ExprUtility:Xor(Int64, Int64)" newStackTraceSignature="$A.$AA:$Wc(Int64, Int64)" />
+      <method signature="int Obfuz.ExprUtility::@Not(int)" newName="$xc" oldStackTraceSignature="Obfuz.ExprUtility:Not(Int32)" newStackTraceSignature="$A.$AA:$xc(Int32)" />
+      <method signature="long Obfuz.ExprUtility::@Not(long)" newName="$Xc" oldStackTraceSignature="Obfuz.ExprUtility:Not(Int64)" newStackTraceSignature="$A.$AA:$Xc(Int64)" />
+      <method signature="int Obfuz.ExprUtility::@ShiftLeft(int, int)" newName="$yc" oldStackTraceSignature="Obfuz.ExprUtility:ShiftLeft(Int32, Int32)" newStackTraceSignature="$A.$AA:$yc(Int32, Int32)" />
+      <method signature="long Obfuz.ExprUtility::@ShiftLeft(long, int)" newName="$Yc" oldStackTraceSignature="Obfuz.ExprUtility:ShiftLeft(Int64, Int32)" newStackTraceSignature="$A.$AA:$Yc(Int64, Int32)" />
+      <method signature="int Obfuz.ExprUtility::@ShiftRight(int, int)" newName="$zc" oldStackTraceSignature="Obfuz.ExprUtility:ShiftRight(Int32, Int32)" newStackTraceSignature="$A.$AA:$zc(Int32, Int32)" />
+      <method signature="long Obfuz.ExprUtility::@ShiftRight(long, int)" newName="$Zc" oldStackTraceSignature="Obfuz.ExprUtility:ShiftRight(Int64, Int32)" newStackTraceSignature="$A.$AA:$Zc(Int64, Int32)" />
+      <method signature="int Obfuz.ExprUtility::@ShiftRightUn(int, int)" newName="$aC" oldStackTraceSignature="Obfuz.ExprUtility:ShiftRightUn(Int32, Int32)" newStackTraceSignature="$A.$AA:$aC(Int32, Int32)" />
+      <method signature="long Obfuz.ExprUtility::@ShiftRightUn(long, int)" newName="$AC" oldStackTraceSignature="Obfuz.ExprUtility:ShiftRightUn(Int64, Int32)" newStackTraceSignature="$A.$AA:$AC(Int64, Int32)" />
+    </type>
+    <type fullName="Obfuz.IEncryptionScope" newFullName="$A.$X" status="Renamed" />
+    <type fullName="Obfuz.IEncryptor" newFullName="$A.$bA" status="Renamed">
+      <property signature="int OpCodeCount" newName="$a" />
+      <method signature="int Obfuz.IEncryptor::get_OpCodeCount([Obfuz.Runtime]Obfuz.IEncryptor)" newName="$Ld" oldStackTraceSignature="Obfuz.IEncryptor:get_OpCodeCount()" newStackTraceSignature="$A.$bA:$Ld()" />
+      <method signature="void Obfuz.IEncryptor::EncryptBlock([Obfuz.Runtime]Obfuz.IEncryptor, byte[], int, int)" newName="$sd" oldStackTraceSignature="Obfuz.IEncryptor:EncryptBlock(Byte[], Int32, Int32)" newStackTraceSignature="$A.$bA:$sd(Byte[], Int32, Int32)" />
+      <method signature="void Obfuz.IEncryptor::DecryptBlock([Obfuz.Runtime]Obfuz.IEncryptor, byte[], int, int)" newName="$Sd" oldStackTraceSignature="Obfuz.IEncryptor:DecryptBlock(Byte[], Int32, Int32)" newStackTraceSignature="$A.$bA:$Sd(Byte[], Int32, Int32)" />
+      <method signature="int Obfuz.IEncryptor::Encrypt([Obfuz.Runtime]Obfuz.IEncryptor, int, int, int)" newName="$md" oldStackTraceSignature="Obfuz.IEncryptor:Encrypt(Int32, Int32, Int32)" newStackTraceSignature="$A.$bA:$md(Int32, Int32, Int32)" />
+      <method signature="int Obfuz.IEncryptor::Decrypt([Obfuz.Runtime]Obfuz.IEncryptor, int, int, int)" newName="$Md" oldStackTraceSignature="Obfuz.IEncryptor:Decrypt(Int32, Int32, Int32)" newStackTraceSignature="$A.$bA:$Md(Int32, Int32, Int32)" />
+      <method signature="long Obfuz.IEncryptor::Encrypt([Obfuz.Runtime]Obfuz.IEncryptor, long, int, int)" newName="$nd" oldStackTraceSignature="Obfuz.IEncryptor:Encrypt(Int64, Int32, Int32)" newStackTraceSignature="$A.$bA:$nd(Int64, Int32, Int32)" />
+      <method signature="long Obfuz.IEncryptor::Decrypt([Obfuz.Runtime]Obfuz.IEncryptor, long, int, int)" newName="$Nd" oldStackTraceSignature="Obfuz.IEncryptor:Decrypt(Int64, Int32, Int32)" newStackTraceSignature="$A.$bA:$Nd(Int64, Int32, Int32)" />
+      <method signature="float Obfuz.IEncryptor::Encrypt([Obfuz.Runtime]Obfuz.IEncryptor, float, int, int)" newName="$od" oldStackTraceSignature="Obfuz.IEncryptor:Encrypt(Single, Int32, Int32)" newStackTraceSignature="$A.$bA:$od(Single, Int32, Int32)" />
+      <method signature="float Obfuz.IEncryptor::Decrypt([Obfuz.Runtime]Obfuz.IEncryptor, float, int, int)" newName="$Od" oldStackTraceSignature="Obfuz.IEncryptor:Decrypt(Single, Int32, Int32)" newStackTraceSignature="$A.$bA:$Od(Single, Int32, Int32)" />
+      <method signature="double Obfuz.IEncryptor::Encrypt([Obfuz.Runtime]Obfuz.IEncryptor, double, int, int)" newName="$pd" oldStackTraceSignature="Obfuz.IEncryptor:Encrypt(Double, Int32, Int32)" newStackTraceSignature="$A.$bA:$pd(Double, Int32, Int32)" />
+      <method signature="double Obfuz.IEncryptor::Decrypt([Obfuz.Runtime]Obfuz.IEncryptor, double, int, int)" newName="$Pd" oldStackTraceSignature="Obfuz.IEncryptor:Decrypt(Double, Int32, Int32)" newStackTraceSignature="$A.$bA:$Pd(Double, Int32, Int32)" />
+      <method signature="byte[] Obfuz.IEncryptor::Encrypt([Obfuz.Runtime]Obfuz.IEncryptor, byte[], int, int, int, int)" newName="$qd" oldStackTraceSignature="Obfuz.IEncryptor:Encrypt(Byte[], Int32, Int32, Int32, Int32)" newStackTraceSignature="$A.$bA:$qd(Byte[], Int32, Int32, Int32, Int32)" />
+      <method signature="byte[] Obfuz.IEncryptor::Decrypt([Obfuz.Runtime]Obfuz.IEncryptor, byte[], int, int, int, int)" newName="$Qd" oldStackTraceSignature="Obfuz.IEncryptor:Decrypt(Byte[], Int32, Int32, Int32, Int32)" newStackTraceSignature="$A.$bA:$Qd(Byte[], Int32, Int32, Int32, Int32)" />
+      <method signature="byte[] Obfuz.IEncryptor::Encrypt([Obfuz.Runtime]Obfuz.IEncryptor, string, int, int)" newName="$rd" oldStackTraceSignature="Obfuz.IEncryptor:Encrypt(String, Int32, Int32)" newStackTraceSignature="$A.$bA:$rd(String, Int32, Int32)" />
+      <method signature="string Obfuz.IEncryptor::DecryptString([Obfuz.Runtime]Obfuz.IEncryptor, byte[], int, int, int, int)" newName="$Rd" oldStackTraceSignature="Obfuz.IEncryptor:DecryptString(Byte[], Int32, Int32, Int32, Int32)" newStackTraceSignature="$A.$bA:$Rd(Byte[], Int32, Int32, Int32, Int32)" />
+      <method signature="void Obfuz.IEncryptor::DecryptInitializeArray([Obfuz.Runtime]Obfuz.IEncryptor, System.Array, System.RuntimeFieldHandle, int, int, int)" newName="$td" oldStackTraceSignature="Obfuz.IEncryptor:DecryptInitializeArray(Array, RuntimeFieldHandle, Int32, Int32, Int32)" newStackTraceSignature="$A.$bA:$td(Array, RuntimeFieldHandle, Int32, Int32, Int32)" />
+    </type>
+    <type fullName="Obfuz.NullEncryptor" newFullName="$A.$BA" status="Renamed">
+      <field signature="byte[] _key" newName="$nD" />
+      <property signature="int OpCodeCount" newName="$a" />
+      <method signature="int Obfuz.NullEncryptor::get_OpCodeCount([Obfuz.Runtime]Obfuz.NullEncryptor)" newName="$Ld" oldStackTraceSignature="Obfuz.NullEncryptor:get_OpCodeCount()" newStackTraceSignature="$A.$BA:$Ld()" />
+      <method signature="int Obfuz.NullEncryptor::Encrypt([Obfuz.Runtime]Obfuz.NullEncryptor, int, int, int)" newName="$md" oldStackTraceSignature="Obfuz.NullEncryptor:Encrypt(Int32, Int32, Int32)" newStackTraceSignature="$A.$BA:$md(Int32, Int32, Int32)" />
+      <method signature="int Obfuz.NullEncryptor::Decrypt([Obfuz.Runtime]Obfuz.NullEncryptor, int, int, int)" newName="$Md" oldStackTraceSignature="Obfuz.NullEncryptor:Decrypt(Int32, Int32, Int32)" newStackTraceSignature="$A.$BA:$Md(Int32, Int32, Int32)" />
+      <method signature="long Obfuz.NullEncryptor::Encrypt([Obfuz.Runtime]Obfuz.NullEncryptor, long, int, int)" newName="$nd" oldStackTraceSignature="Obfuz.NullEncryptor:Encrypt(Int64, Int32, Int32)" newStackTraceSignature="$A.$BA:$nd(Int64, Int32, Int32)" />
+      <method signature="long Obfuz.NullEncryptor::Decrypt([Obfuz.Runtime]Obfuz.NullEncryptor, long, int, int)" newName="$Nd" oldStackTraceSignature="Obfuz.NullEncryptor:Decrypt(Int64, Int32, Int32)" newStackTraceSignature="$A.$BA:$Nd(Int64, Int32, Int32)" />
+      <method signature="float Obfuz.NullEncryptor::Encrypt([Obfuz.Runtime]Obfuz.NullEncryptor, float, int, int)" newName="$od" oldStackTraceSignature="Obfuz.NullEncryptor:Encrypt(Single, Int32, Int32)" newStackTraceSignature="$A.$BA:$od(Single, Int32, Int32)" />
+      <method signature="float Obfuz.NullEncryptor::Decrypt([Obfuz.Runtime]Obfuz.NullEncryptor, float, int, int)" newName="$Od" oldStackTraceSignature="Obfuz.NullEncryptor:Decrypt(Single, Int32, Int32)" newStackTraceSignature="$A.$BA:$Od(Single, Int32, Int32)" />
+      <method signature="double Obfuz.NullEncryptor::Encrypt([Obfuz.Runtime]Obfuz.NullEncryptor, double, int, int)" newName="$pd" oldStackTraceSignature="Obfuz.NullEncryptor:Encrypt(Double, Int32, Int32)" newStackTraceSignature="$A.$BA:$pd(Double, Int32, Int32)" />
+      <method signature="double Obfuz.NullEncryptor::Decrypt([Obfuz.Runtime]Obfuz.NullEncryptor, double, int, int)" newName="$Pd" oldStackTraceSignature="Obfuz.NullEncryptor:Decrypt(Double, Int32, Int32)" newStackTraceSignature="$A.$BA:$Pd(Double, Int32, Int32)" />
+      <method signature="byte[] Obfuz.NullEncryptor::Encrypt([Obfuz.Runtime]Obfuz.NullEncryptor, byte[], int, int, int, int)" newName="$qd" oldStackTraceSignature="Obfuz.NullEncryptor:Encrypt(Byte[], Int32, Int32, Int32, Int32)" newStackTraceSignature="$A.$BA:$qd(Byte[], Int32, Int32, Int32, Int32)" />
+      <method signature="byte[] Obfuz.NullEncryptor::Decrypt([Obfuz.Runtime]Obfuz.NullEncryptor, byte[], int, int, int, int)" newName="$Qd" oldStackTraceSignature="Obfuz.NullEncryptor:Decrypt(Byte[], Int32, Int32, Int32, Int32)" newStackTraceSignature="$A.$BA:$Qd(Byte[], Int32, Int32, Int32, Int32)" />
+      <method signature="byte[] Obfuz.NullEncryptor::Encrypt([Obfuz.Runtime]Obfuz.NullEncryptor, string, int, int)" newName="$rd" oldStackTraceSignature="Obfuz.NullEncryptor:Encrypt(String, Int32, Int32)" newStackTraceSignature="$A.$BA:$rd(String, Int32, Int32)" />
+      <method signature="string Obfuz.NullEncryptor::DecryptString([Obfuz.Runtime]Obfuz.NullEncryptor, byte[], int, int, int, int)" newName="$Rd" oldStackTraceSignature="Obfuz.NullEncryptor:DecryptString(Byte[], Int32, Int32, Int32, Int32)" newStackTraceSignature="$A.$BA:$Rd(Byte[], Int32, Int32, Int32, Int32)" />
+    </type>
+    <type fullName="Obfuz.ObfuscationInstincts" newFullName="$A.$cA" status="Renamed">
+      <method signature="string Obfuz.ObfuscationInstincts::@FullNameOf`1()" newName="$bC" oldStackTraceSignature="Obfuz.ObfuscationInstincts:FullNameOf()" newStackTraceSignature="$A.$cA:$bC()" />
+      <method signature="string Obfuz.ObfuscationInstincts::@NameOf`1()" newName="$BC" oldStackTraceSignature="Obfuz.ObfuscationInstincts:NameOf()" newStackTraceSignature="$A.$cA:$BC()" />
+      <method signature="void Obfuz.ObfuscationInstincts::@RegisterReflectionType`1()" newName="$cC" oldStackTraceSignature="Obfuz.ObfuscationInstincts:RegisterReflectionType()" newStackTraceSignature="$A.$cA:$cC()" />
+    </type>
+    <type fullName="Obfuz.ObfuscationTypeMapper" newFullName="$A.$CA" status="Renamed">
+      <field signature="System.Collections.Generic.Dictionary`2&lt;System.Type,string&gt; _type2OriginalFullName" newName="$ND" />
+      <field signature="System.Collections.Generic.Dictionary`2&lt;System.Reflection.Assembly,System.Collections.Generic.Dictionary`2&lt;string,System.Type&gt;&gt; _originalFullName2Types" newName="$oD" />
+      <method signature="void Obfuz.ObfuscationTypeMapper::@RegisterType`1(string)" newName="$CC" oldStackTraceSignature="Obfuz.ObfuscationTypeMapper:RegisterType(String)" newStackTraceSignature="$A.$CA:$CC(String)" />
+      <method signature="void Obfuz.ObfuscationTypeMapper::@RegisterType(System.Type, string)" newName="$dC" oldStackTraceSignature="Obfuz.ObfuscationTypeMapper:RegisterType(Type, String)" newStackTraceSignature="$A.$CA:$dC(Type, String)" />
+      <method signature="string Obfuz.ObfuscationTypeMapper::@GetOriginalTypeFullName(System.Type)" newName="$DC" oldStackTraceSignature="Obfuz.ObfuscationTypeMapper:GetOriginalTypeFullName(Type)" newStackTraceSignature="$A.$CA:$DC(Type)" />
+      <method signature="string Obfuz.ObfuscationTypeMapper::@GetOriginalTypeFullNameOrCurrent(System.Type)" newName="$eC" oldStackTraceSignature="Obfuz.ObfuscationTypeMapper:GetOriginalTypeFullNameOrCurrent(Type)" newStackTraceSignature="$A.$CA:$eC(Type)" />
+      <method signature="System.Type Obfuz.ObfuscationTypeMapper::@GetTypeByOriginalFullName(System.Reflection.Assembly, string)" newName="$EC" oldStackTraceSignature="Obfuz.ObfuscationTypeMapper:GetTypeByOriginalFullName(Assembly, String)" newStackTraceSignature="$A.$CA:$EC(Assembly, String)" />
+      <method signature="void Obfuz.ObfuscationTypeMapper::@Clear()" newName="$fC" oldStackTraceSignature="Obfuz.ObfuscationTypeMapper:Clear()" newStackTraceSignature="$A.$CA:$fC()" />
+    </type>
+  </assembly>
+</mapping>
